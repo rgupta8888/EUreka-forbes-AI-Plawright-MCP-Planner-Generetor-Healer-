@@ -1,0 +1,376 @@
+- generic [active] [ref=f26e1]:
+  - generic [ref=f26e2]:
+    - banner:
+      - navigation [ref=f26e3]:
+        - generic [ref=f26e5]:
+          - generic [ref=f26e6]:
+            - link "Eureka forbes" [ref=f26e7] [cursor=pointer]:
+              - /url: /
+            - generic [ref=f26e10]:
+              - link "Water Purifiers" [ref=f26e11] [cursor=pointer]:
+                - /url: /c/water-purifiers
+              - link "Vacuum Cleaners" [ref=f26e12] [cursor=pointer]:
+                - /url: /c/vacuum-cleaners
+              - link "Book Service" [ref=f26e13] [cursor=pointer]:
+                - /url: /#bookService?ep=1
+              - link "Air Purifiers" [ref=f26e14] [cursor=pointer]:
+                - /url: /c/air-purifiers
+              - link "Water Softeners" [ref=f26e15] [cursor=pointer]:
+                - /url: /c/water-solutions
+              - link "Service and AMC" [ref=f26e16] [cursor=pointer]:
+                - /url: /customer-service-and-amc
+          - generic [ref=f26e18]:
+            - button "Search" [ref=f26e20] [cursor=pointer]
+            - button "Cart" [ref=f26e26] [cursor=pointer]
+            - link "Log in" [ref=f26e32] [cursor=pointer]:
+              - /url: /login?redirectTo=/dp/GWPDNROCA0002X/aquaguard-enrich-nexen-2-x-ro-uv-active-copper-alkaline-water-purifier-2-year-filter-life-with-mega-sediment-filter
+    - main [ref=f26e38]:
+      - generic [ref=f26e39]:
+        - heading "Aquaguard Enrich Nexen" [level=1] [ref=f26e40]
+        - generic [ref=f26e41]:
+          - generic [ref=f26e42]:
+            - generic [ref=f26e43]:
+              - generic [ref=f26e44]: ₹15,999
+              - generic [ref=f26e45]: MRP ₹25,000
+            - text: No-cost EMI from ₹2,667/mo
+          - button "Add to cart" [ref=f26e48] [cursor=pointer]
+      - generic [ref=f26e49]:
+        - generic [ref=f26e50]:
+          - navigation [ref=f26e51]:
+            - link "Home" [ref=f26e52] [cursor=pointer]:
+              - /url: /
+            - link "Water Purifiers" [ref=f26e56] [cursor=pointer]:
+              - /url: /c/water-purifiers
+            - link "2X Filter Life Water Purifier" [ref=f26e60] [cursor=pointer]:
+              - /url: /c/water-purifiers/2-x-filter-life-water-purifier
+            - text: Aquaguard Enrich Nexen
+          - generic [ref=f26e96]:
+            - button [ref=f26e97] [cursor=pointer]:
+              - img "PDP_Enrich Nexen.jpg" [ref=f26e98]
+            - button [ref=f26e99] [cursor=pointer]:
+              - img "PDP2.jpg" [ref=f26e100]
+            - button [ref=f26e101] [cursor=pointer]:
+              - img "PDP3.jpg" [ref=f26e102]
+            - button [ref=f26e103] [cursor=pointer]:
+              - img "PDP4.jpg" [ref=f26e104]
+            - button [ref=f26e105] [cursor=pointer]:
+              - img "PDP4a.jpg" [ref=f26e106]
+            - button [ref=f26e107] [cursor=pointer]:
+              - img "PDP4b.jpg" [ref=f26e108]
+            - button [ref=f26e109] [cursor=pointer]:
+              - img "PDP5.jpg" [ref=f26e110]
+            - button [ref=f26e111] [cursor=pointer]:
+              - img "PDP6.jpeg" [ref=f26e112]
+            - button [ref=f26e113] [cursor=pointer]:
+              - img "PDP7.jpg" [ref=f26e114]
+            - button [ref=f26e115] [cursor=pointer]:
+              - img "PDP9.jpg" [ref=f26e116]
+            - button [ref=f26e117] [cursor=pointer]:
+              - img "PDP10.jpg" [ref=f26e118]
+            - button [ref=f26e119] [cursor=pointer]:
+              - img "PDP 10.jpg.jpeg" [ref=f26e120]
+            - button [ref=f26e121] [cursor=pointer]:
+              - img "PDP11.jpg" [ref=f26e122]
+            - button [ref=f26e123] [cursor=pointer]:
+              - img "PDP12.jpg" [ref=f26e124]
+        - generic [ref=f26e125]:
+          - paragraph [ref=f26e128]: Aquaguard Enrich Nexen 2X RO+UV Active Copper Alkaline Water Purifier | 2 Year Filter Life | With Mega Sediment Filter
+          - generic [ref=f26e129]:
+            - generic [ref=f26e130]: Delivery & Installation
+            - generic [ref=f26e131]:
+              - generic [ref=f26e132]:
+                - textbox "Enter Pincode" [ref=f26e135]
+                - button "Check" [disabled] [ref=f26e136]
+              - generic [ref=f26e137]: In stock - Free shipping & installation
+          - generic [ref=f26e140]:
+            - heading "Ways to buy" [level=3] [ref=f26e141]
+            - generic [ref=f26e143]:
+              - generic [ref=f26e144]: WEB EXCLUSIVE
+              - img "Multiple devices image" [ref=f26e148]
+              - generic [ref=f26e149]:
+                - paragraph [ref=f26e150]: Exchange ANY old appliance for discounts on a new device!
+                - button "Select" [ref=f26e151] [cursor=pointer]
+              - generic [ref=f26e152]:
+                - paragraph [ref=f26e153]: Get upto ₹4000 OFF
+                - button "Learn more" [ref=f26e154] [cursor=pointer]
+          - generic [ref=f26e155]:
+            - generic [ref=f26e156]:
+              - generic [ref=f26e158]:
+                - paragraph [ref=f26e162]: Bank offers
+                - paragraph [ref=f26e163]: 10% instant discount on all credit/debit cards
+              - generic [ref=f26e164]:
+                - generic [ref=f26e165]:
+                  - generic [ref=f26e166]:
+                    - img "hdfc bank icon" [ref=f26e168]
+                    - img "icici bank icon" [ref=f26e170]
+                    - img "kotak bank icon" [ref=f26e172]
+                  - paragraph [ref=f26e173]: EMI plans
+                  - paragraph [ref=f26e174]: No-cost EMI plans, up to ₹2,667 off
+                - separator [ref=f26e175]
+                - generic [ref=f26e176]:
+                  - paragraph [ref=f26e177]: INSTANT 10% OFF
+                  - paragraph [ref=f26e178]: with select EMI plans
+            - generic [ref=f26e179]:
+              - text: Big Exchange
+              - generic [ref=f26e180]:
+                - generic [ref=f26e181]: ₹15,999
+                - generic [ref=f26e182]:
+                  - generic [ref=f26e183]: 36% OFF
+                  - generic [ref=f26e184]:
+                    - generic [ref=f26e185]: MRP ₹25,000
+                    - generic [ref=f26e186]: (Incl. of all taxes)
+              - button "Add to cart" [ref=f26e187] [cursor=pointer]
+          - generic [ref=f26e188]:
+            - generic [ref=f26e189]: Service Benefits
+            - generic [ref=f26e190]:
+              - generic [ref=f26e191]:
+                - generic [ref=f26e192]: Free Service Plan worth ₹5500 including free installation, 2 free maintenance visit and unlimited repair visits
+                - generic [ref=f26e195]: 2 Year Warranty, Only Spares Included
+                - generic [ref=f26e198]: 10 days easy return
+              - link "Learn more about our return policy" [ref=f26e202] [cursor=pointer]:
+                - /url: https://www.eurekaforbes.com/return-and-replacement-policy
+          - generic [ref=f26e205]:
+            - generic [ref=f26e206]: Also Included
+            - generic [ref=f26e207]:
+              - generic [ref=f26e208]: NanoPore 2X Filters last for 2 Years
+              - generic [ref=f26e211]: Mega Sediment Filter included at no Additional Cost
+          - generic [ref=f26e214]:
+            - generic [ref=f26e215]: About this product
+            - generic [ref=f26e216]:
+              - generic [ref=f26e218]:
+                - paragraph [ref=f26e219]
+                - list [ref=f26e220]:
+                  - listitem [ref=f26e221]:
+                    - strong [ref=f26e222]: "Advanced Purification with Nanopore Long-Life Filter Technology:"
+                    - text: Ensures complete protection from harmful contaminants like Lead, Mercury, Arsenic, Cadmium, Microplastics, Pesticides, and other impurities. Delivers pure and safe drinking water every time.
+                  - listitem [ref=f26e223]:
+                    - strong [ref=f26e224]: "2-Year Filter Life with Anti-Scale Technology:"
+                    - text: Prevents clogging by effectively capturing excess salts and impurities from input water
+                  - listitem [ref=f26e225]:
+                    - strong [ref=f26e226]: "4-in-1 Active Copper Infusion:"
+                    - text: Enriches water with Copper, Zinc, Calcium, and Magnesium for better taste and health.
+                  - listitem [ref=f26e227]:
+                    - strong [ref=f26e228]: "Alkaline Boost Technology:"
+                    - text: Enhances pH levels to make water alkaline as per BIS standards
+                  - listitem [ref=f26e229]:
+                    - strong [ref=f26e230]: "Advanced 12-Stage Purification:"
+                    - text: Multi-stage purification system for comprehensive protection.
+                  - listitem [ref=f26e231]:
+                    - strong [ref=f26e232]: "Works with All Water Sources:"
+                    - text: Purifies municipal, borewell, and tanker water with TDS up to 2000 mg/L.
+                  - listitem [ref=f26e233]:
+                    - strong [ref=f26e234]: "India’s Widest Service Network:"
+                    - text: Backed by India's widest service network, accessible with one click across 19,500+ pin-codes.
+                - paragraph [ref=f26e235]
+              - button "Show More" [ref=f26e236] [cursor=pointer]
+      - generic [ref=f26e240]:
+        - heading "Product specifications" [level=2] [ref=f26e241]
+        - button "Technical Specifications" [ref=f26e243] [cursor=pointer]
+        - button "Product Information - Legal Metrology Product Declaration" [ref=f26e248] [cursor=pointer]
+        - button "Download resources" [ref=f26e253] [cursor=pointer]
+    - contentinfo [ref=f26e257]:
+      - generic [ref=f26e258]:
+        - generic [ref=f26e259]:
+          - generic [ref=f26e260]:
+            - generic [ref=f26e261] [cursor=pointer]:
+              - button [ref=f26e262]:
+                - link "Water Purifiers" [ref=f26e263]:
+                  - /url: /c/water-purifiers
+              - generic [ref=f26e265]:
+                - link "RO Water Purifiers" [ref=f26e266]:
+                  - /url: /c/water-purifiers/ro-water-purifier
+                - link "UV Water Purifiers" [ref=f26e267]:
+                  - /url: /c/water-purifiers/uv-water-purifier
+                - link "Active Copper" [ref=f26e268]:
+                  - /url: /c/water-purifiers/copper-water-purifier
+                - link "Alkaline Boost" [ref=f26e269]:
+                  - /url: /c/water-purifiers/alkaline-boost-water-purifier
+                - link "Hot & Ambient" [ref=f26e270]:
+                  - /url: /c/water-purifiers/hot-and-ambient-purifier
+                - link "Stainless Steel Purifier" [ref=f26e271]:
+                  - /url: /c/water-purifiers/stainless-steel-purifier
+                - link "Slim Water Purifier" [ref=f26e272]:
+                  - /url: /c/water-purifiers/slim-water-purifier
+                - link "Under Counter Purifier" [ref=f26e273]:
+                  - /url: /c/water-purifiers/under-counter-purifier
+                - link "Spares & Accessories" [ref=f26e274]:
+                  - /url: /c/water-purifiers/water-purifier-accessories-and-spares
+                - link "Genuine Filters" [ref=f26e275]:
+                  - /url: /c/water-purifiers/genuine-filters
+            - generic [ref=f26e276] [cursor=pointer]:
+              - button [ref=f26e277]:
+                - link "Vacuum cleaners" [ref=f26e278]:
+                  - /url: /c/vacuum-cleaners
+              - generic [ref=f26e280]:
+                - link "Robotic" [ref=f26e281]:
+                  - /url: /c/vacuum-cleaners/robotic-vacuum-cleaner
+                - link "Upright" [ref=f26e282]:
+                  - /url: /c/vacuum-cleaners/upright-vacuum-cleaner
+                - link "Canister" [ref=f26e283]:
+                  - /url: /c/vacuum-cleaners/canister-vacumm-cleaner
+                - link "Wet & Dry" [ref=f26e284]:
+                  - /url: /c/vacuum-cleaners/wet-and-dry-vacuum-cleaner
+                - link "Handheld" [ref=f26e285]:
+                  - /url: /c/vacuum-cleaners/handheld-vacuum-cleaner
+                - link "Pet Grooming" [ref=f26e286]:
+                  - /url: /c/vacuum-cleaners/pet-grooming-vacuum-cleaner
+                - link "Accessories" [ref=f26e287]:
+                  - /url: /c/vacuum-cleaners/vacuum-cleaners-accessories
+          - generic [ref=f26e288]:
+            - generic [ref=f26e289] [cursor=pointer]:
+              - button [ref=f26e290]:
+                - link "Water solutions" [ref=f26e291]:
+                  - /url: /c/water-solutions
+              - generic [ref=f26e293]:
+                - link "Water Softeners" [ref=f26e294]:
+                  - /url: /c/water-solutions/aquaguard-water-softeners
+                - link "Sediment Filter" [ref=f26e295]:
+                  - /url: /c/water-solutions/sediment-filter
+                - link "Activated Carbon Filter" [ref=f26e296]:
+                  - /url: /c/water-solutions/activated-carbon-filter
+                - link "Iron Remover" [ref=f26e297]:
+                  - /url: /c/water-solutions/iron-remover
+                - link "Water Solutions Accessories" [ref=f26e298]:
+                  - /url: /c/water-solutions/water-solutions-accessories
+            - generic [ref=f26e299] [cursor=pointer]:
+              - button [ref=f26e300]:
+                - link "Commercial Water Purifiers" [ref=f26e301]:
+                  - /url: /c/commercial-water-purifiers
+              - generic [ref=f26e303]:
+                - link "UV Commercial Water Purifier" [ref=f26e304]:
+                  - /url: https://www.eurekaforbes.com/c/commercial-water-purifiers/commercial-uv-water-purifiers
+                - link "RO Commercial Water Purifier" [ref=f26e305]:
+                  - /url: https://www.eurekaforbes.com/c/commercial-water-purifiers/commercial-ro-water-purifier
+                - link "Water Cooler with Inbuilt Purifier and Storage" [ref=f26e306]:
+                  - /url: /c/commercial-water-purifiers/storage-water-cooler-with-inbuilt-purifier
+                - link "RO Plants" [ref=f26e307]:
+                  - /url: /c/commercial-water-purifiers/skid-mounted-ro-plants
+            - generic [ref=f26e308] [cursor=pointer]:
+              - button [ref=f26e309]:
+                - link "Air Purifiers" [ref=f26e310]:
+                  - /url: /c/air-purifiers
+              - generic [ref=f26e312]:
+                - link "All Air Purifiers" [ref=f26e313]:
+                  - /url: /c/air-purifiers/all-air-purifiers
+                - link "Filters" [ref=f26e314]:
+                  - /url: /c/air-purifiers/air-purifier-filters
+          - generic [ref=f26e315]:
+            - generic [ref=f26e316] [cursor=pointer]:
+              - button [ref=f26e317]:
+                - link "Servicing" [ref=f26e318]:
+                  - /url: /dp/GWPDNROCA0002X/aquaguard-enrich-nexen-2-x-ro-uv-active-copper-alkaline-water-purifier-2-year-filter-life-with-mega-sediment-filter#
+              - generic [ref=f26e320]:
+                - link "Buy AMC" [ref=f26e321]:
+                  - /url: /amc/my-devices
+                - link "Raise A Complaint" [ref=f26e322]:
+                  - /url: /service
+                - link "AMC Terms & Conditions" [ref=f26e323]:
+                  - /url: https://www.eurekaforbes.com/amc-new-terms-and-condition
+            - generic [ref=f26e324] [cursor=pointer]:
+              - button [ref=f26e325]:
+                - link "Account" [ref=f26e326]:
+                  - /url: /account
+              - generic [ref=f26e328]:
+                - link "Profile" [ref=f26e329]:
+                  - /url: /account/profile
+                - link "Your Devices" [ref=f26e330]:
+                  - /url: /amc/my-devices
+                - link "Your Orders" [ref=f26e331]:
+                  - /url: /ecom/orders
+            - generic [ref=f26e332] [cursor=pointer]:
+              - button [ref=f26e333]:
+                - link "Corporate Gifting" [ref=f26e334]:
+                  - /url: https://www.eurekaforbes.com/corporate-gifts-and-bulk-discounts?srsltid=AfmBOoqkJujXnL70NT1d-J_OTkzRBbW2qo_qThqFguttt0VSYWUSK6Ji
+              - link "Corporate Gifting & Bulk Orders" [ref=f26e337]:
+                - /url: https://www.eurekaforbes.com/corporate-gifts-and-bulk-discounts?srsltid=AfmBOoqkJujXnL70NT1d-J_OTkzRBbW2qo_qThqFguttt0VSYWUSK6Ji
+          - generic [ref=f26e339] [cursor=pointer]:
+            - button [ref=f26e340]:
+              - link "About Eureka Forbes" [ref=f26e341]:
+                - /url: /dp/GWPDNROCA0002X/aquaguard-enrich-nexen-2-x-ro-uv-active-copper-alkaline-water-purifier-2-year-filter-life-with-mega-sediment-filter#
+            - generic [ref=f26e343]:
+              - link "About Us" [ref=f26e344]:
+                - /url: /about-us
+              - link "Connect With Us" [ref=f26e345]:
+                - /url: /connect-with-us
+              - link "Investor Relations" [ref=f26e346]:
+                - /url: /investor-relations
+              - link "Sustainability" [ref=f26e347]:
+                - /url: /sustainability
+              - link "Press Release" [ref=f26e348]:
+                - /url: /press-release
+              - link "Authorized Service Center" [ref=f26e349]:
+                - /url: /authorized-center
+              - link "Office Near You" [ref=f26e350]:
+                - /url: /storelocator
+              - link "Blog" [ref=f26e351]:
+                - /url: /blog
+              - link "Book a Demo" [ref=f26e352]:
+                - /url: /contactus/index/bookademorequest
+              - link "Returns & Refunds Policy" [ref=f26e353]:
+                - /url: /return-and-replacement-policy?srsltid=AfmBOoomc9u2-7ELXVpT9chv2zw9Op6AaxXoFZJWIfO_8OXTeIEtyc5k
+              - link "Sell with EarnSmart Program" [ref=f26e354]:
+                - /url: /sell-with-earnsmart
+              - link "Careers" [ref=f26e355]:
+                - /url: https://www.eurekaforbes.com/careers
+        - generic [ref=f26e356]:
+          - generic [ref=f26e357]:
+            - paragraph [ref=f26e358]: Registered Office and Corporate Office
+            - paragraph [ref=f26e359]: B1/B2, 701, 7th Floor, Marathon Innova, Off. Ganpatrao Kadam Marg, Lower Parel (West), Mumbai, Maharashtra – 400013
+          - generic [ref=f26e360]:
+            - paragraph [ref=f26e361]: Manufacturer/Importer details
+            - paragraph [ref=f26e362]: Eureka Forbes Limited
+          - generic [ref=f26e363]:
+            - paragraph [ref=f26e364]: Corporate Identity Number (CIN)
+            - paragraph [ref=f26e365]: L27310MH2008PLC188478
+        - separator [ref=f26e366]
+        - generic [ref=f26e367]:
+          - paragraph [ref=f26e368]: More ways to shop
+          - link "Call 7039883333" [ref=f26e370] [cursor=pointer]:
+            - /url: tel:7039883333
+        - generic [ref=f26e371]:
+          - link [ref=f26e372] [cursor=pointer]:
+            - /url: https://in.linkedin.com/company/eureka-forbes-ltd
+            - img "LinkedIn" [ref=f26e373]
+          - link [ref=f26e374] [cursor=pointer]:
+            - /url: https://www.facebook.com/EurekaForbes/
+            - img "Facebook" [ref=f26e375]
+          - link [ref=f26e376] [cursor=pointer]:
+            - /url: https://x.com/EurekaforbesIN
+            - img "Twitter" [ref=f26e377]
+          - link [ref=f26e378] [cursor=pointer]:
+            - /url: https://www.youtube.com/c/eurekaforbes
+            - img "YouTube" [ref=f26e379]
+          - link [ref=f26e380] [cursor=pointer]:
+            - /url: https://www.instagram.com/eurekaforbesofficial/
+            - img "Instagram" [ref=f26e381]
+        - generic [ref=f26e382]:
+          - paragraph [ref=f26e383]: India
+          - generic [ref=f26e384]:
+            - paragraph [ref=f26e385]: © 2026 Eureka Forbes. All Rights Reserved.
+            - generic [ref=f26e386]:
+              - link "Privacy" [ref=f26e387] [cursor=pointer]:
+                - /url: /en/privacy-policy
+              - link "Terms of use" [ref=f26e388] [cursor=pointer]:
+                - /url: /terms-of-use
+              - link "Legal" [ref=f26e389] [cursor=pointer]:
+                - /url: /legal
+              - link "Sitemap" [ref=f26e390] [cursor=pointer]:
+                - /url: /sitemap.xml
+        - paragraph [ref=f26e391]: "Disclaimer: The displayed product colours and shades are indicative and cannot be considered to be a precise representation of the actual colours."
+    - generic [ref=f26e392]:
+      - paragraph [ref=f26e393]:
+        - text: We use cookies to improve your experience.
+        - link "Learn more" [ref=f26e394] [cursor=pointer]:
+          - /url: /cookie-policy
+      - button "Allow" [ref=f26e395] [cursor=pointer]
+      - button [ref=f26e396] [cursor=pointer]
+    - link [ref=f26e400] [cursor=pointer]:
+      - /url: https://api.whatsapp.com/send?phone=917039883333&text=Hi
+      - img "WhatsappButton" [ref=f26e401]
+  - alert [ref=f26e402]
+  - iframe [ref=f26e403]:
+    - generic [ref=f38e12]:
+      - 'link "4-Hour Delivery & Installation* now live for Delhi NCR Region | Order before 3PM | *T&C Apply | Note: Delivery might be delayed to High Demand" [ref=f38e13] [cursor=pointer]':
+        - /url: https://www.eurekaforbes.com/c/water-purifiers/4-hour-delivery-and-installation-wp
+      - link:
+        - /url: https://www.eurekaforbes.com/c/water-purifiers/4-hour-delivery-and-installation-wp

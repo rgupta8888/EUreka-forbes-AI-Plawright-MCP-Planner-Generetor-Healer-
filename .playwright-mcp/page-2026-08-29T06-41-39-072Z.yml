@@ -1,0 +1,1325 @@
+- generic [active] [ref=f13e1]:
+  - generic [ref=f13e2]:
+    - generic [ref=f13e3]:
+      - banner:
+        - navigation [ref=f13e4]:
+          - generic [ref=f13e6]:
+            - generic [ref=f13e7]:
+              - link "Eureka forbes" [ref=f13e8] [cursor=pointer]:
+                - /url: /
+              - generic [ref=f13e11]:
+                - link "Water Purifiers" [ref=f13e12] [cursor=pointer]:
+                  - /url: /c/water-purifiers
+                - link "Vacuum Cleaners" [ref=f13e13] [cursor=pointer]:
+                  - /url: /c/vacuum-cleaners
+                - link "Book Service" [ref=f13e14] [cursor=pointer]:
+                  - /url: /#bookService?ep=1
+                - link "Air Purifiers" [ref=f13e15] [cursor=pointer]:
+                  - /url: /c/air-purifiers
+                - link "Water Softeners" [ref=f13e16] [cursor=pointer]:
+                  - /url: /c/water-solutions
+                - link "Service and AMC" [ref=f13e17] [cursor=pointer]:
+                  - /url: /customer-service-and-amc
+            - generic [ref=f13e19]:
+              - button "Search" [ref=f13e21] [cursor=pointer]
+              - button "Cart" [ref=f13e27] [cursor=pointer]
+              - link "Log in" [ref=f13e33] [cursor=pointer]:
+                - /url: /login?redirectTo=/c/water-purifiers
+      - main [ref=f13e39]:
+        - generic [ref=f13e40]:
+          - navigation [ref=f13e42]:
+            - link "Home" [ref=f13e43] [cursor=pointer]:
+              - /url: /
+            - text: Water Purifiers
+          - generic [ref=f13e47]:
+            - heading "Water Purifiers" [level=1] [ref=f13e48]
+            - generic [ref=f13e49]:
+              - generic [ref=f13e51]:
+                - link "RO Water Purifier RO Water Purifier" [ref=f13e55] [cursor=pointer]:
+                  - /url: /c/water-purifiers/ro-water-purifier
+                  - generic [ref=f13e56]:
+                    - img "RO Water Purifier" [ref=f13e58]
+                    - generic [ref=f13e59]: RO Water Purifier
+                - link "UV Water Purifier UV Water Purifier" [ref=f13e63] [cursor=pointer]:
+                  - /url: /c/water-purifiers/uv-water-purifier
+                  - generic [ref=f13e64]:
+                    - img "UV Water Purifier" [ref=f13e66]
+                    - generic [ref=f13e67]: UV Water Purifier
+                - link "Smart Water Purifier Smart Water Purifier" [ref=f13e71] [cursor=pointer]:
+                  - /url: /c/water-purifiers/smart-water-purifier
+                  - generic [ref=f13e72]:
+                    - img "Smart Water Purifier" [ref=f13e74]
+                    - generic [ref=f13e75]: Smart Water Purifier
+                - link "Alkaline Boost Alkaline Boost" [ref=f13e79] [cursor=pointer]:
+                  - /url: /c/water-purifiers/alkaline-boost-water-purifier
+                  - generic [ref=f13e80]:
+                    - img "Alkaline Boost" [ref=f13e82]
+                    - generic [ref=f13e83]: Alkaline Boost
+                - link "Active Copper Water Purifier Active Copper Water Purifier" [ref=f13e87] [cursor=pointer]:
+                  - /url: /c/water-purifiers/copper-water-purifier
+                  - generic [ref=f13e88]:
+                    - img "Active Copper Water Purifier" [ref=f13e90]
+                    - generic [ref=f13e91]: Active Copper Water Purifier
+                - link "Under Counter Purifier Under Counter Purifier" [ref=f13e95] [cursor=pointer]:
+                  - /url: /c/water-purifiers/under-counter-purifier
+                  - generic [ref=f13e96]:
+                    - img "Under Counter Purifier" [ref=f13e98]
+                    - generic [ref=f13e99]: Under Counter Purifier
+                - link "Hot & Ambient Hot & Ambient" [ref=f13e103] [cursor=pointer]:
+                  - /url: /c/water-purifiers/hot-and-ambient-purifier
+                  - generic [ref=f13e104]:
+                    - img "Hot & Ambient" [ref=f13e106]
+                    - generic [ref=f13e107]: Hot & Ambient
+                - link "4-Hour Delivery & Installation 4-Hour Delivery & Installation" [ref=f13e111] [cursor=pointer]:
+                  - /url: /c/water-purifiers/4-hour-delivery-and-installation-wp
+                  - generic [ref=f13e112]:
+                    - img "4-Hour Delivery & Installation" [ref=f13e114]
+                    - generic [ref=f13e115]: 4-Hour Delivery & Installation
+                - link [ref=f13e119] [cursor=pointer]:
+                  - /url: /c/water-purifiers/2-x-filter-life-water-purifier
+                  - generic [ref=f13e120]: 2X Filter Life Water Purifier
+                - link [ref=f13e127] [cursor=pointer]:
+                  - /url: /c/water-purifiers/stainless-steel-purifier
+                  - generic [ref=f13e128]: Stainless Steel Water Purifier
+                - link [ref=f13e135] [cursor=pointer]:
+                  - /url: /c/water-purifiers/slim-water-purifier
+                  - generic [ref=f13e136]: Slim Water Purifier
+                - link [ref=f13e143] [cursor=pointer]:
+                  - /url: /c/water-purifiers/non-electric-water-purifier
+                  - generic [ref=f13e144]: Non-electric Water Purifier
+                - link [ref=f13e151] [cursor=pointer]:
+                  - /url: /c/water-purifiers/genuine-filters
+                  - generic [ref=f13e152]: Genuine Filters
+                - link [ref=f13e159] [cursor=pointer]:
+                  - /url: /c/water-purifiers/water-purifier-accessories-and-spares
+                  - generic [ref=f13e160]: Genuine Spares
+              - generic [ref=f13e164] [cursor=pointer]
+        - generic [ref=f13e172]:
+          - heading "Trending Water Purifiers" [level=3] [ref=f13e173]
+          - list [ref=f13e174]:
+            - listitem [ref=f13e175]:
+              - link "Rs.4000 Exchange Offer Aquaguard Sure Delight 2X Aquasaver RO+UV+UF+MC Stainless Steel Water Purifier | 2 Year Filter Life | With Mega Sediment Filter 2X Filter Life 9 Stage Purification 60% Water Saver Stainless Steel ₹15,999 MRP ₹25,000 (36% OFF) Limited Time Deal No-cost EMI from ₹2,667/mo" [ref=f13e176] [cursor=pointer]:
+                - /url: /dp/GWPDASDSR0002X/aquaguard-sure-delight-2-x-aquasaver-ro-uv-uf-mc-stainless-steel-water-purifier-2-year-filter-life-with-mega-sediment-filter
+                - generic [ref=f13e177]: Rs.4000 Exchange Offer
+                - generic [ref=f13e179]:
+                  - generic [ref=f13e180]:
+                    - heading "Aquaguard Sure Delight 2X Aquasaver RO+UV+UF+MC Stainless Steel Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=4] [ref=f13e181]
+                    - generic [ref=f13e182]:
+                      - generic [ref=f13e183]: 2X Filter Life
+                      - generic [ref=f13e184]: 9 Stage Purification
+                      - generic [ref=f13e185]: 60% Water Saver
+                      - generic [ref=f13e186]: Stainless Steel
+                  - generic [ref=f13e187]:
+                    - paragraph [ref=f13e188]: ₹15,999
+                    - paragraph [ref=f13e189]: MRP ₹25,000 (36% OFF)
+                    - generic [ref=f13e190]: Limited Time Deal
+                    - paragraph [ref=f13e191]: No-cost EMI from ₹2,667/mo
+            - listitem [ref=f13e192]:
+              - link "Rs.4000 Exchange Offer Aquaguard Enrich Nexen 2X RO+UV Active Copper Alkaline Water Purifier | 2 Year Filter Life | With Mega Sediment Filter RO+UV Active Copper + Alkaline Boost 2X Filter Life 12 Stage Purification ₹15,999 MRP ₹25,000 (36% OFF) Big Exchange No-cost EMI from ₹2,667/mo" [ref=f13e193] [cursor=pointer]:
+                - /url: /dp/GWPDNROCA0002X/aquaguard-enrich-nexen-2-x-ro-uv-active-copper-alkaline-water-purifier-2-year-filter-life-with-mega-sediment-filter
+                - generic [ref=f13e194]: Rs.4000 Exchange Offer
+                - generic [ref=f13e196]:
+                  - generic [ref=f13e197]:
+                    - heading "Aquaguard Enrich Nexen 2X RO+UV Active Copper Alkaline Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=4] [ref=f13e198]
+                    - generic [ref=f13e199]:
+                      - generic [ref=f13e200]: RO+UV
+                      - generic [ref=f13e201]: Active Copper + Alkaline Boost
+                      - generic [ref=f13e202]: 2X Filter Life
+                      - generic [ref=f13e203]: 12 Stage Purification
+                  - generic [ref=f13e204]:
+                    - paragraph [ref=f13e205]: ₹15,999
+                    - paragraph [ref=f13e206]: MRP ₹25,000 (36% OFF)
+                    - generic [ref=f13e207]: Big Exchange
+                    - paragraph [ref=f13e208]: No-cost EMI from ₹2,667/mo
+            - listitem [ref=f13e209]:
+              - link "Rs.4000 Exchange Offer Aquaguard Enrich Eon 2X RO+UV+CU Stainless Steel Water Purifier | Water Quality Display | Alkaline Boost | 2 Year Filter Life | With Mega Sediment Filter Water Quality Indicator Active Copper + Alkaline Boost Stainless Steel Nanopure Purification Advanced 5th Gen UV LED ₹20,499 MRP ₹27,000 (24% OFF) Big Exchange No-cost EMI from ₹3,417/mo" [ref=f13e210] [cursor=pointer]:
+                - /url: /dp/GWPDNRCWS0002X/aquaguard-enrich-eon-2-x-ro-uv-cu-stainless-steel-water-purifier-water-quality-display-alkaline-boost-2-year-filter-life-with-mega-sediment-filter
+                - generic [ref=f13e211]: Rs.4000 Exchange Offer
+                - generic [ref=f13e213]:
+                  - generic [ref=f13e214]:
+                    - heading "Aquaguard Enrich Eon 2X RO+UV+CU Stainless Steel Water Purifier | Water Quality Display | Alkaline Boost | 2 Year Filter Life | With Mega Sediment Filter" [level=4] [ref=f13e215]
+                    - generic [ref=f13e216]:
+                      - generic [ref=f13e217]: Water Quality Indicator
+                      - generic [ref=f13e218]: Active Copper + Alkaline Boost
+                      - generic [ref=f13e219]: Stainless Steel
+                      - generic [ref=f13e220]: Nanopure Purification
+                      - generic [ref=f13e221]: Advanced 5th Gen UV LED
+                  - generic [ref=f13e222]:
+                    - paragraph [ref=f13e223]: ₹20,499
+                    - paragraph [ref=f13e224]: MRP ₹27,000 (24% OFF)
+                    - generic [ref=f13e225]: Big Exchange
+                    - paragraph [ref=f13e226]: No-cost EMI from ₹3,417/mo
+            - listitem [ref=f13e227]:
+              - link "Rs.3000 Exchange Offer Aquaguard Sure Delight 2X Aquasaver RO+UV+UF Water Purifier | 2 Year Filter Life | With Mega Sediment Filter 2X Filter Life 9 Stage Purification 60% Water Saver ₹12,499 MRP ₹26,500 (52% OFF) Limited Time Deal No-cost EMI from ₹2,084/mo" [ref=f13e228] [cursor=pointer]:
+                - /url: /dp/GWPDDLT2X00B00/aquaguard-sure-delight-2-x-aquasaver-ro-uv-uf-water-purifier
+                - generic [ref=f13e229]: Rs.3000 Exchange Offer
+                - generic [ref=f13e231]:
+                  - generic [ref=f13e232]:
+                    - heading "Aquaguard Sure Delight 2X Aquasaver RO+UV+UF Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=4] [ref=f13e233]
+                    - generic [ref=f13e234]:
+                      - generic [ref=f13e235]: 2X Filter Life
+                      - generic [ref=f13e236]: 9 Stage Purification
+                      - generic [ref=f13e237]: 60% Water Saver
+                  - generic [ref=f13e238]:
+                    - paragraph [ref=f13e239]: ₹12,499
+                    - paragraph [ref=f13e240]: MRP ₹26,500 (52% OFF)
+                    - generic [ref=f13e241]: Limited Time Deal
+                    - paragraph [ref=f13e242]: No-cost EMI from ₹2,084/mo
+            - listitem [ref=f13e243]:
+              - link "Rs.2000 Exchange Offer Aquaguard Sure Delight 2X UV+UF Water Purifier | 2 Year Filter Life | With Mega Sediment Filter 2X Filter Life 6 Stage Purification ₹9,499 MRP ₹14,000 (32% OFF) Limited Time Deal No-cost EMI from ₹1,584/mo" [ref=f13e244] [cursor=pointer]:
+                - /url: /dp/GWPDSDU2X00000/aquaguard-sure-delight-2-x-uv-uf-water-purifier
+                - generic [ref=f13e245]: Rs.2000 Exchange Offer
+                - generic [ref=f13e247]:
+                  - generic [ref=f13e248]:
+                    - heading "Aquaguard Sure Delight 2X UV+UF Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=4] [ref=f13e249]
+                    - generic [ref=f13e250]:
+                      - generic [ref=f13e251]: 2X Filter Life
+                      - generic [ref=f13e252]: 6 Stage Purification
+                  - generic [ref=f13e253]:
+                    - paragraph [ref=f13e254]: ₹9,499
+                    - paragraph [ref=f13e255]: MRP ₹14,000 (32% OFF)
+                    - generic [ref=f13e256]: Limited Time Deal
+                    - paragraph [ref=f13e257]: No-cost EMI from ₹1,584/mo
+            - listitem [ref=f13e258]:
+              - link "Rs.3000 Exchange Offer Aquaguard Sure Delight Aquasaver 2X RO+UV+UF Wood Water Purifier | 2 Year Filter Life | With Mega Sediment Filter 2 Years Filter Life 9 Stage Purification Wood Texture 2-in-1 Mineral Charge ₹13,999 MRP ₹24,000 (41% OFF) No-cost EMI from ₹2,334/mo" [ref=f13e259] [cursor=pointer]:
+                - /url: /dp/GWPDDRU2X00B00/aquaguard-sure-delight-aquasaver-2-x-ro-uv-uf-wood-water-purifier-2-year-filter-life-with-mega-sediment-filter
+                - generic [ref=f13e260]: Rs.3000 Exchange Offer
+                - generic [ref=f13e262]:
+                  - generic [ref=f13e263]:
+                    - heading "Aquaguard Sure Delight Aquasaver 2X RO+UV+UF Wood Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=4] [ref=f13e264]
+                    - generic [ref=f13e265]:
+                      - generic [ref=f13e266]: 2 Years Filter Life
+                      - generic [ref=f13e267]: 9 Stage Purification
+                      - generic [ref=f13e268]: Wood Texture
+                      - generic [ref=f13e269]: 2-in-1 Mineral Charge
+                  - generic [ref=f13e270]:
+                    - paragraph [ref=f13e271]: ₹13,999
+                    - paragraph [ref=f13e272]: MRP ₹24,000 (41% OFF)
+                    - paragraph [ref=f13e273]: No-cost EMI from ₹2,334/mo
+            - listitem [ref=f13e274]:
+              - link "Rs.4000 Exchange Offer Aquaguard ENRICH Ritz Pro 4X RO+UV Active Copper Stainless Steel Water Purifier | 4 Year Filter Life | Free Sediment Filter RO+UV Active Copper + Alkaline Boost Stainless Steel ₹24,999 MRP ₹37,000 (32% OFF) Limited Time Deal No-cost EMI from ₹4,167/mo" [ref=f13e275] [cursor=pointer]:
+                - /url: /dp/GWPDERRCS0002X/aquaguard-enrich-ritz-pro-4-x-ro-uv-active-copper-stainless-steel-water-purifier-4-year-filter-life-free-sediment-filter
+                - generic [ref=f13e276]: Rs.4000 Exchange Offer
+                - generic [ref=f13e278]:
+                  - generic [ref=f13e279]:
+                    - heading "Aquaguard ENRICH Ritz Pro 4X RO+UV Active Copper Stainless Steel Water Purifier | 4 Year Filter Life | Free Sediment Filter" [level=4] [ref=f13e280]
+                    - generic [ref=f13e281]:
+                      - generic [ref=f13e282]: RO+UV
+                      - generic [ref=f13e283]: Active Copper + Alkaline Boost
+                      - generic [ref=f13e284]: Stainless Steel
+                  - generic [ref=f13e285]:
+                    - paragraph [ref=f13e286]: ₹24,999
+                    - paragraph [ref=f13e287]: MRP ₹37,000 (32% OFF)
+                    - generic [ref=f13e288]: Limited Time Deal
+                    - paragraph [ref=f13e289]: No-cost EMI from ₹4,167/mo
+            - listitem [ref=f13e290]:
+              - link "Rs.3000 Exchange Offer Aquaguard Sure Delight 2X UV+UF Stainless Steel Water Purifier | 2 Year Filter Life | With Mega Sediment Filter UV+UF 2X Filter Life Stainless Steel ₹12,499 MRP ₹17,000 (26% OFF) Limited Time Deal No-cost EMI from ₹2,084/mo" [ref=f13e291] [cursor=pointer]:
+                - /url: /dp/GWPDADUUS0002X/aquaguard-sure-delight-2-x-uv-uf-stainless-steel-water-purifier-2-year-filter-life-with-mega-sediment-filter
+                - generic [ref=f13e292]: Rs.3000 Exchange Offer
+                - generic [ref=f13e294]:
+                  - generic [ref=f13e295]:
+                    - heading "Aquaguard Sure Delight 2X UV+UF Stainless Steel Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=4] [ref=f13e296]
+                    - generic [ref=f13e297]:
+                      - generic [ref=f13e298]: UV+UF
+                      - generic [ref=f13e299]: 2X Filter Life
+                      - generic [ref=f13e300]: Stainless Steel
+                  - generic [ref=f13e301]:
+                    - paragraph [ref=f13e302]: ₹12,499
+                    - paragraph [ref=f13e303]: MRP ₹17,000 (26% OFF)
+                    - generic [ref=f13e304]: Limited Time Deal
+                    - paragraph [ref=f13e305]: No-cost EMI from ₹2,084/mo
+            - listitem [ref=f13e306]:
+              - link "Rs.4000 Exchange Offer Aquaguard Enrich Nexen 2X RO+UV Active Copper Alkaline Stainless Steel Aquasaver Water Purifier | 2 Year Filter Life | With Mega Sediment Filter RO+UV Active Copper + Alkaline Boost Stainless Steel 12 Stage Purification ₹19,999 MRP ₹27,000 (25% OFF) Limited Time Deal No-cost EMI from ₹3,334/mo" [ref=f13e307] [cursor=pointer]:
+                - /url: /dp/GWPDNRUCA0002X/aquaguard-enrich-nexen-2-x-ro-uv-active-copper-alkaline-stainless-steel-aquasaver-water-purifier-2-year-filter-life-with-mega-sediment-filter
+                - generic [ref=f13e308]: Rs.4000 Exchange Offer
+                - generic [ref=f13e310]:
+                  - generic [ref=f13e311]:
+                    - heading "Aquaguard Enrich Nexen 2X RO+UV Active Copper Alkaline Stainless Steel Aquasaver Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=4] [ref=f13e312]
+                    - generic [ref=f13e313]:
+                      - generic [ref=f13e314]: RO+UV
+                      - generic [ref=f13e315]: Active Copper + Alkaline Boost
+                      - generic [ref=f13e316]: Stainless Steel
+                      - generic [ref=f13e317]: 12 Stage Purification
+                  - generic [ref=f13e318]:
+                    - paragraph [ref=f13e319]: ₹19,999
+                    - paragraph [ref=f13e320]: MRP ₹27,000 (25% OFF)
+                    - generic [ref=f13e321]: Limited Time Deal
+                    - paragraph [ref=f13e322]: No-cost EMI from ₹3,334/mo
+            - listitem [ref=f13e323]:
+              - link "Rs.4000 Exchange Offer Aquaguard Enrich Glory RO+UV+UF 2X Water Purifier with 4 Year Free Service Plan | Active Copper + Alkaline Boost | 2 Year Filter Life | With Mega Sediment Filter 12 Stage Purification Active Copper + Alkaline Boost 2X Filter Life ₹15,999 MRP ₹23,500 (31% OFF) Limited Time Deal No-cost EMI from ₹2,667/mo" [ref=f13e324] [cursor=pointer]:
+                - /url: /dp/GWPDEGRUA0002X/aquaguard-enrich-glory-ro-uv-uf-2-x-water-purifier-with-4-year-free-service-plan-2-year-filter-life-active-copper-alkaline-boost-12-stage-40-water-recovery-suitable-for-all-water-sources
+                - generic [ref=f13e325]: Rs.4000 Exchange Offer
+                - generic [ref=f13e327]:
+                  - generic [ref=f13e328]:
+                    - heading "Aquaguard Enrich Glory RO+UV+UF 2X Water Purifier with 4 Year Free Service Plan | Active Copper + Alkaline Boost | 2 Year Filter Life | With Mega Sediment Filter" [level=4] [ref=f13e329]
+                    - generic [ref=f13e330]:
+                      - generic [ref=f13e331]: 12 Stage Purification
+                      - generic [ref=f13e332]: Active Copper + Alkaline Boost
+                      - generic [ref=f13e333]: 2X Filter Life
+                  - generic [ref=f13e334]:
+                    - paragraph [ref=f13e335]: ₹15,999
+                    - paragraph [ref=f13e336]: MRP ₹23,500 (31% OFF)
+                    - generic [ref=f13e337]: Limited Time Deal
+                    - paragraph [ref=f13e338]: No-cost EMI from ₹2,667/mo
+            - listitem [ref=f13e339]:
+              - link "Rs.4000 Exchange Offer Aquaguard ENRICH Ritz Pro 2X RO+UV Active Copper Alkaline Stainless Steel Water Purifier | 2 Years Unconditional Warranty | With Mega Sediment Filter RO+UV Active Copper + Alkaline Boost Stainless Steel ₹21,999 MRP ₹32,000 (31% OFF) Limited Time Deal No-cost EMI from ₹3,667/mo" [ref=f13e340] [cursor=pointer]:
+                - /url: /dp/GWPDRPRCS0002X/aquaguard-enrich-ritz-pro-2-x-ro-uv-active-copper-alkaline-stainless-steel-water-purifier-2-years-unconditional-warranty-with-mega-sediment-filter
+                - generic [ref=f13e341]: Rs.4000 Exchange Offer
+                - generic [ref=f13e343]:
+                  - generic [ref=f13e344]:
+                    - heading "Aquaguard ENRICH Ritz Pro 2X RO+UV Active Copper Alkaline Stainless Steel Water Purifier | 2 Years Unconditional Warranty | With Mega Sediment Filter" [level=4] [ref=f13e345]
+                    - generic [ref=f13e346]:
+                      - generic [ref=f13e347]: RO+UV
+                      - generic [ref=f13e348]: Active Copper + Alkaline Boost
+                      - generic [ref=f13e349]: Stainless Steel
+                  - generic [ref=f13e350]:
+                    - paragraph [ref=f13e351]: ₹21,999
+                    - paragraph [ref=f13e352]: MRP ₹32,000 (31% OFF)
+                    - generic [ref=f13e353]: Limited Time Deal
+                    - paragraph [ref=f13e354]: No-cost EMI from ₹3,667/mo
+            - listitem [ref=f13e355]:
+              - link "Rs.4000 Exchange Offer Aquaguard Enrich Marvel 2X RO+UV+UF Active Copper Alkaline Water Purifier | 2 Year Filter Life | With Mega Sediment Filter RO+UV Active Copper + Alkaline Boost Plastic ₹15,499 MRP ₹24,500 (36% OFF) Limited Time Deal No-cost EMI from ₹2,584/mo" [ref=f13e356] [cursor=pointer]:
+                - /url: /dp/GWPDEMRUA0002X/aquaguard-enrich-marvel-2-x-ro-uv-active-copper-alkaline-water-purifier-2-year-filter-life-with-mega-sediment-filter
+                - generic [ref=f13e357]: Rs.4000 Exchange Offer
+                - generic [ref=f13e359]:
+                  - generic [ref=f13e360]:
+                    - heading "Aquaguard Enrich Marvel 2X RO+UV+UF Active Copper Alkaline Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=4] [ref=f13e361]
+                    - generic [ref=f13e362]:
+                      - generic [ref=f13e363]: RO+UV
+                      - generic [ref=f13e364]: Active Copper + Alkaline Boost
+                      - generic [ref=f13e365]: Plastic
+                  - generic [ref=f13e366]:
+                    - paragraph [ref=f13e367]: ₹15,499
+                    - paragraph [ref=f13e368]: MRP ₹24,500 (36% OFF)
+                    - generic [ref=f13e369]: Limited Time Deal
+                    - paragraph [ref=f13e370]: No-cost EMI from ₹2,584/mo
+            - listitem [ref=f13e371]:
+              - link "Aquaguard Enrich Glory RO+UV+UF Copper Water Purifier with 5 Year Free Service 9-Stage Purification 5 Years Service Active Copper ₹14,999 MRP ₹22,000 (31% OFF) Limited Time Deal No-cost EMI from ₹2,500/mo" [ref=f13e372] [cursor=pointer]:
+                - /url: /dp/GWPDGRU5Y00000/aquaguard-enrich-glory-ro-uv-uf-with-copper-water-purifier
+                - generic [ref=f13e374]:
+                  - generic [ref=f13e375]:
+                    - heading "Aquaguard Enrich Glory RO+UV+UF Copper Water Purifier with 5 Year Free Service" [level=4] [ref=f13e376]
+                    - generic [ref=f13e377]:
+                      - generic [ref=f13e378]: 9-Stage Purification
+                      - generic [ref=f13e379]: 5 Years Service
+                      - generic [ref=f13e380]: Active Copper
+                  - generic [ref=f13e381]:
+                    - paragraph [ref=f13e382]: ₹14,999
+                    - paragraph [ref=f13e383]: MRP ₹22,000 (31% OFF)
+                    - generic [ref=f13e384]: Limited Time Deal
+                    - paragraph [ref=f13e385]: No-cost EMI from ₹2,500/mo
+          - generic [ref=f13e386]:
+            - button [disabled] [ref=f13e389]
+            - button [ref=f13e393] [cursor=pointer]
+        - link "Get Free Live Demo Book Now Feature Card Image Live Demo from Experts Learn about our products from our expert through video call. Feature Card Image Ask Anything Get instant answers on use, care, & performance. Feature Card Image Available in 2 Languages English and Hindi" [ref=f13e397] [cursor=pointer]:
+          - /url: https://atefl.in/wpd/(S(vvrgcyljtosalutk1ij41rfg))/dmo?val=ad6a62b1857f806e
+          - generic [ref=f13e400]:
+            - generic [ref=f13e401]: Get Free Live Demo
+            - button "Book Now" [ref=f13e404]
+            - generic [ref=f13e405]:
+              - generic [ref=f13e406]:
+                - img "Feature Card Image" [ref=f13e408]
+                - generic [ref=f13e409]:
+                  - heading "Live Demo from Experts" [level=3] [ref=f13e410]
+                  - paragraph [ref=f13e411]: Learn about our products from our expert through video call.
+              - generic [ref=f13e412]:
+                - img "Feature Card Image" [ref=f13e414]
+                - generic [ref=f13e415]:
+                  - heading "Ask Anything" [level=3] [ref=f13e416]
+                  - paragraph [ref=f13e417]: Get instant answers on use, care, & performance.
+              - generic [ref=f13e418]:
+                - img "Feature Card Image" [ref=f13e420]
+                - generic [ref=f13e421]:
+                  - heading "Available in 2 Languages" [level=3] [ref=f13e422]
+                  - paragraph [ref=f13e423]: English and Hindi
+        - generic [ref=f13e425]:
+          - heading "Top Selling Water Purifiers" [level=3] [ref=f13e426]
+          - list [ref=f13e427]:
+            - listitem [ref=f13e428]:
+              - link "Rs.4000 Exchange Offer Aquaguard ASPIRE Glow 4X RO+UV Active Copper Alkaline Water Purifier | 4 Year Filter Life | Free Sediment Filter RO+UV Active Copper + Alkaline Boost 4 Year Warranty 12 Stage Purification ₹21,999 MRP ₹31,000 (29% OFF) No-cost EMI from ₹3,667/mo" [ref=f13e429] [cursor=pointer]:
+                - /url: /dp/GWPDGLORU0004X/aquaguard-aspire-glow-4-x-ro-uv-active-copper-alkaline-water-purifier-4-year-filter-life-free-sediment-filter
+                - generic [ref=f13e430]: Rs.4000 Exchange Offer
+                - generic [ref=f13e432]:
+                  - generic [ref=f13e433]:
+                    - heading "Aquaguard ASPIRE Glow 4X RO+UV Active Copper Alkaline Water Purifier | 4 Year Filter Life | Free Sediment Filter" [level=4] [ref=f13e434]
+                    - generic [ref=f13e435]:
+                      - generic [ref=f13e436]: RO+UV
+                      - generic [ref=f13e437]: Active Copper + Alkaline Boost
+                      - generic [ref=f13e438]: 4 Year Warranty
+                      - generic [ref=f13e439]: 12 Stage Purification
+                  - generic [ref=f13e440]:
+                    - paragraph [ref=f13e441]: ₹21,999
+                    - paragraph [ref=f13e442]: MRP ₹31,000 (29% OFF)
+                    - paragraph [ref=f13e443]: No-cost EMI from ₹3,667/mo
+            - listitem [ref=f13e444]:
+              - link "Rs.4000 Exchange Offer Aquaguard Sure Delight 2X Aquasaver RO+UV+UF+MC Stainless Steel Water Purifier | 2 Year Filter Life | With Mega Sediment Filter 2X Filter Life 9 Stage Purification 60% Water Saver Stainless Steel ₹15,999 MRP ₹25,000 (36% OFF) Limited Time Deal No-cost EMI from ₹2,667/mo" [ref=f13e445] [cursor=pointer]:
+                - /url: /dp/GWPDASDSR0002X/aquaguard-sure-delight-2-x-aquasaver-ro-uv-uf-mc-stainless-steel-water-purifier-2-year-filter-life-with-mega-sediment-filter
+                - generic [ref=f13e446]: Rs.4000 Exchange Offer
+                - generic [ref=f13e448]:
+                  - generic [ref=f13e449]:
+                    - heading "Aquaguard Sure Delight 2X Aquasaver RO+UV+UF+MC Stainless Steel Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=4] [ref=f13e450]
+                    - generic [ref=f13e451]:
+                      - generic [ref=f13e452]: 2X Filter Life
+                      - generic [ref=f13e453]: 9 Stage Purification
+                      - generic [ref=f13e454]: 60% Water Saver
+                      - generic [ref=f13e455]: Stainless Steel
+                  - generic [ref=f13e456]:
+                    - paragraph [ref=f13e457]: ₹15,999
+                    - paragraph [ref=f13e458]: MRP ₹25,000 (36% OFF)
+                    - generic [ref=f13e459]: Limited Time Deal
+                    - paragraph [ref=f13e460]: No-cost EMI from ₹2,667/mo
+            - listitem [ref=f13e461]:
+              - link "Rs.3000 Exchange Offer Aquaguard Sure Delight 2X Aquasaver RO+UV+UF Water Purifier | 2 Year Filter Life | With Mega Sediment Filter 2X Filter Life 9 Stage Purification 60% Water Saver ₹12,499 MRP ₹26,500 (52% OFF) Limited Time Deal No-cost EMI from ₹2,084/mo" [ref=f13e462] [cursor=pointer]:
+                - /url: /dp/GWPDDLT2X00B00/aquaguard-sure-delight-2-x-aquasaver-ro-uv-uf-water-purifier
+                - generic [ref=f13e463]: Rs.3000 Exchange Offer
+                - generic [ref=f13e465]:
+                  - generic [ref=f13e466]:
+                    - heading "Aquaguard Sure Delight 2X Aquasaver RO+UV+UF Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=4] [ref=f13e467]
+                    - generic [ref=f13e468]:
+                      - generic [ref=f13e469]: 2X Filter Life
+                      - generic [ref=f13e470]: 9 Stage Purification
+                      - generic [ref=f13e471]: 60% Water Saver
+                  - generic [ref=f13e472]:
+                    - paragraph [ref=f13e473]: ₹12,499
+                    - paragraph [ref=f13e474]: MRP ₹26,500 (52% OFF)
+                    - generic [ref=f13e475]: Limited Time Deal
+                    - paragraph [ref=f13e476]: No-cost EMI from ₹2,084/mo
+            - listitem [ref=f13e477]:
+              - link "Rs.2000 Exchange Offer Aquaguard Sure Delight 2X UV+UF Water Purifier | 2 Year Filter Life | With Mega Sediment Filter 2X Filter Life 6 Stage Purification ₹9,499 MRP ₹14,000 (32% OFF) Limited Time Deal No-cost EMI from ₹1,584/mo" [ref=f13e478] [cursor=pointer]:
+                - /url: /dp/GWPDSDU2X00000/aquaguard-sure-delight-2-x-uv-uf-water-purifier
+                - generic [ref=f13e479]: Rs.2000 Exchange Offer
+                - generic [ref=f13e481]:
+                  - generic [ref=f13e482]:
+                    - heading "Aquaguard Sure Delight 2X UV+UF Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=4] [ref=f13e483]
+                    - generic [ref=f13e484]:
+                      - generic [ref=f13e485]: 2X Filter Life
+                      - generic [ref=f13e486]: 6 Stage Purification
+                  - generic [ref=f13e487]:
+                    - paragraph [ref=f13e488]: ₹9,499
+                    - paragraph [ref=f13e489]: MRP ₹14,000 (32% OFF)
+                    - generic [ref=f13e490]: Limited Time Deal
+                    - paragraph [ref=f13e491]: No-cost EMI from ₹1,584/mo
+            - listitem [ref=f13e492]:
+              - link "Rs.3000 Exchange Offer Aquaguard Sure Delight 2X UV+UF Stainless Steel Water Purifier | 2 Year Filter Life | With Mega Sediment Filter UV+UF 2X Filter Life Stainless Steel ₹12,499 MRP ₹17,000 (26% OFF) Limited Time Deal No-cost EMI from ₹2,084/mo" [ref=f13e493] [cursor=pointer]:
+                - /url: /dp/GWPDADUUS0002X/aquaguard-sure-delight-2-x-uv-uf-stainless-steel-water-purifier-2-year-filter-life-with-mega-sediment-filter
+                - generic [ref=f13e494]: Rs.3000 Exchange Offer
+                - generic [ref=f13e496]:
+                  - generic [ref=f13e497]:
+                    - heading "Aquaguard Sure Delight 2X UV+UF Stainless Steel Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=4] [ref=f13e498]
+                    - generic [ref=f13e499]:
+                      - generic [ref=f13e500]: UV+UF
+                      - generic [ref=f13e501]: 2X Filter Life
+                      - generic [ref=f13e502]: Stainless Steel
+                  - generic [ref=f13e503]:
+                    - paragraph [ref=f13e504]: ₹12,499
+                    - paragraph [ref=f13e505]: MRP ₹17,000 (26% OFF)
+                    - generic [ref=f13e506]: Limited Time Deal
+                    - paragraph [ref=f13e507]: No-cost EMI from ₹2,084/mo
+            - listitem [ref=f13e508]:
+              - link "Rs.4000 Exchange Offer Aquaguard Enrich Eon 2X RO+UV+CU Stainless Steel Water Purifier | Water Quality Display | Alkaline Boost | 2 Year Filter Life | With Mega Sediment Filter Water Quality Indicator Active Copper + Alkaline Boost Stainless Steel Nanopure Purification Advanced 5th Gen UV LED ₹20,499 MRP ₹27,000 (24% OFF) Big Exchange No-cost EMI from ₹3,417/mo" [ref=f13e509] [cursor=pointer]:
+                - /url: /dp/GWPDNRCWS0002X/aquaguard-enrich-eon-2-x-ro-uv-cu-stainless-steel-water-purifier-water-quality-display-alkaline-boost-2-year-filter-life-with-mega-sediment-filter
+                - generic [ref=f13e510]: Rs.4000 Exchange Offer
+                - generic [ref=f13e512]:
+                  - generic [ref=f13e513]:
+                    - heading "Aquaguard Enrich Eon 2X RO+UV+CU Stainless Steel Water Purifier | Water Quality Display | Alkaline Boost | 2 Year Filter Life | With Mega Sediment Filter" [level=4] [ref=f13e514]
+                    - generic [ref=f13e515]:
+                      - generic [ref=f13e516]: Water Quality Indicator
+                      - generic [ref=f13e517]: Active Copper + Alkaline Boost
+                      - generic [ref=f13e518]: Stainless Steel
+                      - generic [ref=f13e519]: Nanopure Purification
+                      - generic [ref=f13e520]: Advanced 5th Gen UV LED
+                  - generic [ref=f13e521]:
+                    - paragraph [ref=f13e522]: ₹20,499
+                    - paragraph [ref=f13e523]: MRP ₹27,000 (24% OFF)
+                    - generic [ref=f13e524]: Big Exchange
+                    - paragraph [ref=f13e525]: No-cost EMI from ₹3,417/mo
+            - listitem [ref=f13e526]:
+              - link "Rs.4000 Exchange Offer Aquaguard Enrich Nexen 2X RO+UV Active Copper Alkaline Stainless Steel Aquasaver Water Purifier | 2 Year Filter Life | With Mega Sediment Filter RO+UV Active Copper + Alkaline Boost Stainless Steel 12 Stage Purification ₹19,999 MRP ₹27,000 (25% OFF) Limited Time Deal No-cost EMI from ₹3,334/mo" [ref=f13e527] [cursor=pointer]:
+                - /url: /dp/GWPDNRUCA0002X/aquaguard-enrich-nexen-2-x-ro-uv-active-copper-alkaline-stainless-steel-aquasaver-water-purifier-2-year-filter-life-with-mega-sediment-filter
+                - generic [ref=f13e528]: Rs.4000 Exchange Offer
+                - generic [ref=f13e530]:
+                  - generic [ref=f13e531]:
+                    - heading "Aquaguard Enrich Nexen 2X RO+UV Active Copper Alkaline Stainless Steel Aquasaver Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=4] [ref=f13e532]
+                    - generic [ref=f13e533]:
+                      - generic [ref=f13e534]: RO+UV
+                      - generic [ref=f13e535]: Active Copper + Alkaline Boost
+                      - generic [ref=f13e536]: Stainless Steel
+                      - generic [ref=f13e537]: 12 Stage Purification
+                  - generic [ref=f13e538]:
+                    - paragraph [ref=f13e539]: ₹19,999
+                    - paragraph [ref=f13e540]: MRP ₹27,000 (25% OFF)
+                    - generic [ref=f13e541]: Limited Time Deal
+                    - paragraph [ref=f13e542]: No-cost EMI from ₹3,334/mo
+            - listitem [ref=f13e543]:
+              - link "Rs.4000 Exchange Offer Aquaguard ENRICH Ritz Pro 4X RO+UV Active Copper Stainless Steel Water Purifier | 4 Year Filter Life | Free Sediment Filter RO+UV Active Copper + Alkaline Boost Stainless Steel ₹24,999 MRP ₹37,000 (32% OFF) Limited Time Deal No-cost EMI from ₹4,167/mo" [ref=f13e544] [cursor=pointer]:
+                - /url: /dp/GWPDERRCS0002X/aquaguard-enrich-ritz-pro-4-x-ro-uv-active-copper-stainless-steel-water-purifier-4-year-filter-life-free-sediment-filter
+                - generic [ref=f13e545]: Rs.4000 Exchange Offer
+                - generic [ref=f13e547]:
+                  - generic [ref=f13e548]:
+                    - heading "Aquaguard ENRICH Ritz Pro 4X RO+UV Active Copper Stainless Steel Water Purifier | 4 Year Filter Life | Free Sediment Filter" [level=4] [ref=f13e549]
+                    - generic [ref=f13e550]:
+                      - generic [ref=f13e551]: RO+UV
+                      - generic [ref=f13e552]: Active Copper + Alkaline Boost
+                      - generic [ref=f13e553]: Stainless Steel
+                  - generic [ref=f13e554]:
+                    - paragraph [ref=f13e555]: ₹24,999
+                    - paragraph [ref=f13e556]: MRP ₹37,000 (32% OFF)
+                    - generic [ref=f13e557]: Limited Time Deal
+                    - paragraph [ref=f13e558]: No-cost EMI from ₹4,167/mo
+            - listitem [ref=f13e559]:
+              - link "Rs.4000 Exchange Offer Aquaguard Enrich Glory RO+UV+UF 2X Water Purifier with 4 Year Free Service Plan | Active Copper + Alkaline Boost | 2 Year Filter Life | With Mega Sediment Filter 12 Stage Purification Active Copper + Alkaline Boost 2X Filter Life ₹15,999 MRP ₹23,500 (31% OFF) Limited Time Deal No-cost EMI from ₹2,667/mo" [ref=f13e560] [cursor=pointer]:
+                - /url: /dp/GWPDEGRUA0002X/aquaguard-enrich-glory-ro-uv-uf-2-x-water-purifier-with-4-year-free-service-plan-2-year-filter-life-active-copper-alkaline-boost-12-stage-40-water-recovery-suitable-for-all-water-sources
+                - generic [ref=f13e561]: Rs.4000 Exchange Offer
+                - generic [ref=f13e563]:
+                  - generic [ref=f13e564]:
+                    - heading "Aquaguard Enrich Glory RO+UV+UF 2X Water Purifier with 4 Year Free Service Plan | Active Copper + Alkaline Boost | 2 Year Filter Life | With Mega Sediment Filter" [level=4] [ref=f13e565]
+                    - generic [ref=f13e566]:
+                      - generic [ref=f13e567]: 12 Stage Purification
+                      - generic [ref=f13e568]: Active Copper + Alkaline Boost
+                      - generic [ref=f13e569]: 2X Filter Life
+                  - generic [ref=f13e570]:
+                    - paragraph [ref=f13e571]: ₹15,999
+                    - paragraph [ref=f13e572]: MRP ₹23,500 (31% OFF)
+                    - generic [ref=f13e573]: Limited Time Deal
+                    - paragraph [ref=f13e574]: No-cost EMI from ₹2,667/mo
+            - listitem [ref=f13e575]:
+              - link "Rs.4000 Exchange Offer Aquaguard ENRICH Ritz Pro 2X RO+UV Active Copper Alkaline Stainless Steel Water Purifier | 2 Years Unconditional Warranty | With Mega Sediment Filter RO+UV Active Copper + Alkaline Boost Stainless Steel ₹21,999 MRP ₹32,000 (31% OFF) Limited Time Deal No-cost EMI from ₹3,667/mo" [ref=f13e576] [cursor=pointer]:
+                - /url: /dp/GWPDRPRCS0002X/aquaguard-enrich-ritz-pro-2-x-ro-uv-active-copper-alkaline-stainless-steel-water-purifier-2-years-unconditional-warranty-with-mega-sediment-filter
+                - generic [ref=f13e577]: Rs.4000 Exchange Offer
+                - generic [ref=f13e579]:
+                  - generic [ref=f13e580]:
+                    - heading "Aquaguard ENRICH Ritz Pro 2X RO+UV Active Copper Alkaline Stainless Steel Water Purifier | 2 Years Unconditional Warranty | With Mega Sediment Filter" [level=4] [ref=f13e581]
+                    - generic [ref=f13e582]:
+                      - generic [ref=f13e583]: RO+UV
+                      - generic [ref=f13e584]: Active Copper + Alkaline Boost
+                      - generic [ref=f13e585]: Stainless Steel
+                  - generic [ref=f13e586]:
+                    - paragraph [ref=f13e587]: ₹21,999
+                    - paragraph [ref=f13e588]: MRP ₹32,000 (31% OFF)
+                    - generic [ref=f13e589]: Limited Time Deal
+                    - paragraph [ref=f13e590]: No-cost EMI from ₹3,667/mo
+          - generic [ref=f13e591]:
+            - button [disabled] [ref=f13e594]
+            - button [ref=f13e598] [cursor=pointer]
+        - generic [ref=f13e604]:
+          - generic [ref=f13e605]:
+            - link "New Launch Aquaguard RO Reject Water Tank Ideal for Cleaning, Mopping & gardening With Convenient Handles Stores reject water for reuse Use for Non-Drinking Purpose ₹1,249 MRP ₹3,499 (64% OFF)" [ref=f13e606] [cursor=pointer]:
+              - /url: /dp/GWPMRORWT00020/aquaguard-ro-reject-water-tank
+              - generic [ref=f13e607]: New Launch
+              - generic [ref=f13e609]:
+                - generic [ref=f13e610]:
+                  - heading "Aquaguard RO Reject Water Tank" [level=3] [ref=f13e611]
+                  - generic [ref=f13e612]:
+                    - generic [ref=f13e613]: Ideal for Cleaning, Mopping & gardening
+                    - generic [ref=f13e614]: With Convenient Handles
+                    - generic [ref=f13e615]: Stores reject water for reuse
+                    - generic [ref=f13e616]: Use for Non-Drinking Purpose
+                - generic [ref=f13e617]:
+                  - paragraph [ref=f13e618]: ₹1,249
+                  - paragraph [ref=f13e619]: MRP ₹3,499 (64% OFF)
+                  - paragraph
+            - link "Rs.4000 Exchange Offer Aquaguard Enrich Eon 2X RO+UV+CU Stainless Steel Water Purifier | Water Quality Display | Alkaline Boost | 2 Year Filter Life | With Mega Sediment Filter Water Quality Indicator Active Copper + Alkaline Boost Stainless Steel Nanopure Purification Advanced 5th Gen UV LED ₹20,499 MRP ₹27,000 (24% OFF) Big Exchange No-cost EMI from ₹3,417/mo" [ref=f13e620] [cursor=pointer]:
+              - /url: /dp/GWPDNRCWS0002X/aquaguard-enrich-eon-2-x-ro-uv-cu-stainless-steel-water-purifier-water-quality-display-alkaline-boost-2-year-filter-life-with-mega-sediment-filter
+              - generic [ref=f13e621]: Rs.4000 Exchange Offer
+              - generic [ref=f13e623]:
+                - generic [ref=f13e624]:
+                  - heading "Aquaguard Enrich Eon 2X RO+UV+CU Stainless Steel Water Purifier | Water Quality Display | Alkaline Boost | 2 Year Filter Life | With Mega Sediment Filter" [level=3] [ref=f13e625]
+                  - generic [ref=f13e626]:
+                    - generic [ref=f13e627]: Water Quality Indicator
+                    - generic [ref=f13e628]: Active Copper + Alkaline Boost
+                    - generic [ref=f13e629]: Stainless Steel
+                    - generic [ref=f13e630]: Nanopure Purification
+                    - generic [ref=f13e631]: Advanced 5th Gen UV LED
+                - generic [ref=f13e632]:
+                  - paragraph [ref=f13e633]: ₹20,499
+                  - paragraph [ref=f13e634]: MRP ₹27,000 (24% OFF)
+                  - generic [ref=f13e635]: Big Exchange
+                  - paragraph [ref=f13e636]: No-cost EMI from ₹3,417/mo
+            - link "Rs.4000 Exchange Offer Aquaguard Sure Delight 2X Aquasaver RO+UV+UF+MC Stainless Steel Water Purifier | 2 Year Filter Life | With Mega Sediment Filter 2X Filter Life 9 Stage Purification 60% Water Saver Stainless Steel ₹15,999 MRP ₹25,000 (36% OFF) Limited Time Deal No-cost EMI from ₹2,667/mo" [ref=f13e637] [cursor=pointer]:
+              - /url: /dp/GWPDASDSR0002X/aquaguard-sure-delight-2-x-aquasaver-ro-uv-uf-mc-stainless-steel-water-purifier-2-year-filter-life-with-mega-sediment-filter
+              - generic [ref=f13e638]: Rs.4000 Exchange Offer
+              - generic [ref=f13e640]:
+                - generic [ref=f13e641]:
+                  - heading "Aquaguard Sure Delight 2X Aquasaver RO+UV+UF+MC Stainless Steel Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=3] [ref=f13e642]
+                  - generic [ref=f13e643]:
+                    - generic [ref=f13e644]: 2X Filter Life
+                    - generic [ref=f13e645]: 9 Stage Purification
+                    - generic [ref=f13e646]: 60% Water Saver
+                    - generic [ref=f13e647]: Stainless Steel
+                - generic [ref=f13e648]:
+                  - paragraph [ref=f13e649]: ₹15,999
+                  - paragraph [ref=f13e650]: MRP ₹25,000 (36% OFF)
+                  - generic [ref=f13e651]: Limited Time Deal
+                  - paragraph [ref=f13e652]: No-cost EMI from ₹2,667/mo
+            - link "Rs.4000 Exchange Offer Aquaguard Enrich Nexen 2X RO+UV Active Copper Alkaline Water Purifier | 2 Year Filter Life | With Mega Sediment Filter RO+UV Active Copper + Alkaline Boost 2X Filter Life 12 Stage Purification ₹15,999 MRP ₹25,000 (36% OFF) Big Exchange No-cost EMI from ₹2,667/mo" [ref=f13e653] [cursor=pointer]:
+              - /url: /dp/GWPDNROCA0002X/aquaguard-enrich-nexen-2-x-ro-uv-active-copper-alkaline-water-purifier-2-year-filter-life-with-mega-sediment-filter
+              - generic [ref=f13e654]: Rs.4000 Exchange Offer
+              - generic [ref=f13e656]:
+                - generic [ref=f13e657]:
+                  - heading "Aquaguard Enrich Nexen 2X RO+UV Active Copper Alkaline Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=3] [ref=f13e658]
+                  - generic [ref=f13e659]:
+                    - generic [ref=f13e660]: RO+UV
+                    - generic [ref=f13e661]: Active Copper + Alkaline Boost
+                    - generic [ref=f13e662]: 2X Filter Life
+                    - generic [ref=f13e663]: 12 Stage Purification
+                - generic [ref=f13e664]:
+                  - paragraph [ref=f13e665]: ₹15,999
+                  - paragraph [ref=f13e666]: MRP ₹25,000 (36% OFF)
+                  - generic [ref=f13e667]: Big Exchange
+                  - paragraph [ref=f13e668]: No-cost EMI from ₹2,667/mo
+            - link "Rs.2000 Exchange Offer Aquaguard Sure Delight 2X UV+UF Water Purifier | 2 Year Filter Life | With Mega Sediment Filter 2X Filter Life 6 Stage Purification ₹9,499 MRP ₹14,000 (32% OFF) Limited Time Deal No-cost EMI from ₹1,584/mo" [ref=f13e669] [cursor=pointer]:
+              - /url: /dp/GWPDSDU2X00000/aquaguard-sure-delight-2-x-uv-uf-water-purifier
+              - generic [ref=f13e670]: Rs.2000 Exchange Offer
+              - generic [ref=f13e672]:
+                - generic [ref=f13e673]:
+                  - heading "Aquaguard Sure Delight 2X UV+UF Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=3] [ref=f13e674]
+                  - generic [ref=f13e675]:
+                    - generic [ref=f13e676]: 2X Filter Life
+                    - generic [ref=f13e677]: 6 Stage Purification
+                - generic [ref=f13e678]:
+                  - paragraph [ref=f13e679]: ₹9,499
+                  - paragraph [ref=f13e680]: MRP ₹14,000 (32% OFF)
+                  - generic [ref=f13e681]: Limited Time Deal
+                  - paragraph [ref=f13e682]: No-cost EMI from ₹1,584/mo
+            - link "New Launch Aquaguard Aspire Halo 2X UV + HMR Stainless Steel WQI Water Purifier | 2 Year Filter Life | With Mega Sediment Filter Intelligent Halo Light 10-Stage Purification 4 in 1 Active Copper Heavy Metal Removal Water Quality Indicator ₹18,499 MRP ₹23,000 (19% OFF) Big Exchange No-cost EMI from ₹3,084/mo" [ref=f13e683] [cursor=pointer]:
+              - /url: /dp/GWPDAJU2X00000/aquaguard-aspire-halo-2-x-uv-hmr-stainless-steel-wqi-water-purifier-2-year-filter-life-with-mega-sediment-filter
+              - generic [ref=f13e684]: New Launch
+              - generic [ref=f13e686]:
+                - generic [ref=f13e687]:
+                  - heading "Aquaguard Aspire Halo 2X UV + HMR Stainless Steel WQI Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=3] [ref=f13e688]
+                  - generic [ref=f13e689]:
+                    - generic [ref=f13e690]: Intelligent Halo Light
+                    - generic [ref=f13e691]: 10-Stage Purification
+                    - generic [ref=f13e692]: 4 in 1 Active Copper
+                    - generic [ref=f13e693]: Heavy Metal Removal
+                    - generic [ref=f13e694]: Water Quality Indicator
+                - generic [ref=f13e695]:
+                  - paragraph [ref=f13e696]: ₹18,499
+                  - paragraph [ref=f13e697]: MRP ₹23,000 (19% OFF)
+                  - generic [ref=f13e698]: Big Exchange
+                  - paragraph [ref=f13e699]: No-cost EMI from ₹3,084/mo
+            - link "New Launch Aquaguard Aspire Halo 2X RO+UV Active Copper Alkaline Stainless Steel WQI Water Purifier | 2 Year Filter Life | With Mega Sediment Filter Intelligent Halo Light 12-Stage Purification 4 in 1 Active Copper Water Quality Indicator ₹23,999 MRP ₹31,000 (22% OFF) Big Exchange No-cost EMI from ₹4,000/mo" [ref=f13e700] [cursor=pointer]:
+              - /url: /dp/GWPDHRUSW0002X/aquaguard-aspire-halo-2-x-ro-uv-cu-alkaline-stainless-steel-wqi-water-purifier-2-year-filter-life-with-mega-sediment-filter
+              - generic [ref=f13e701]: New Launch
+              - generic [ref=f13e703]:
+                - generic [ref=f13e704]:
+                  - heading "Aquaguard Aspire Halo 2X RO+UV Active Copper Alkaline Stainless Steel WQI Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=3] [ref=f13e705]
+                  - generic [ref=f13e706]:
+                    - generic [ref=f13e707]: Intelligent Halo Light
+                    - generic [ref=f13e708]: 12-Stage Purification
+                    - generic [ref=f13e709]: 4 in 1 Active Copper
+                    - generic [ref=f13e710]: Water Quality Indicator
+                - generic [ref=f13e711]:
+                  - paragraph [ref=f13e712]: ₹23,999
+                  - paragraph [ref=f13e713]: MRP ₹31,000 (22% OFF)
+                  - generic [ref=f13e714]: Big Exchange
+                  - paragraph [ref=f13e715]: No-cost EMI from ₹4,000/mo
+            - link "Rs.4000 Exchange Offer Aquaguard ENRICH Ritz Pro 2X RO+UV Active Copper Alkaline Stainless Steel Water Purifier | 2 Years Unconditional Warranty | With Mega Sediment Filter RO+UV Active Copper + Alkaline Boost Stainless Steel ₹21,999 MRP ₹32,000 (31% OFF) Limited Time Deal No-cost EMI from ₹3,667/mo" [ref=f13e716] [cursor=pointer]:
+              - /url: /dp/GWPDRPRCS0002X/aquaguard-enrich-ritz-pro-2-x-ro-uv-active-copper-alkaline-stainless-steel-water-purifier-2-years-unconditional-warranty-with-mega-sediment-filter
+              - generic [ref=f13e717]: Rs.4000 Exchange Offer
+              - generic [ref=f13e719]:
+                - generic [ref=f13e720]:
+                  - heading "Aquaguard ENRICH Ritz Pro 2X RO+UV Active Copper Alkaline Stainless Steel Water Purifier | 2 Years Unconditional Warranty | With Mega Sediment Filter" [level=3] [ref=f13e721]
+                  - generic [ref=f13e722]:
+                    - generic [ref=f13e723]: RO+UV
+                    - generic [ref=f13e724]: Active Copper + Alkaline Boost
+                    - generic [ref=f13e725]: Stainless Steel
+                - generic [ref=f13e726]:
+                  - paragraph [ref=f13e727]: ₹21,999
+                  - paragraph [ref=f13e728]: MRP ₹32,000 (31% OFF)
+                  - generic [ref=f13e729]: Limited Time Deal
+                  - paragraph [ref=f13e730]: No-cost EMI from ₹3,667/mo
+            - link "Aquaguard Sure Delight 2X RO+UV+UF Water Purifier | 2 Year Filter Life | With Mega Sediment Filter RO+UV+UF 7 Stage Purification 2 Years Filter Life ₹12,499 MRP ₹22,000 (43% OFF) Limited Time Deal No-cost EMI from ₹2,084/mo" [ref=f13e731] [cursor=pointer]:
+              - /url: /dp/GWPDAD2XR00B00/aquaguard-sure-delight-2-x-ro-uv-uf-water-purifier-2-year-filter-life-with-mega-sediment-filter
+              - generic [ref=f13e733]:
+                - generic [ref=f13e734]:
+                  - heading "Aquaguard Sure Delight 2X RO+UV+UF Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=3] [ref=f13e735]
+                  - generic [ref=f13e736]:
+                    - generic [ref=f13e737]: RO+UV+UF
+                    - generic [ref=f13e738]: 7 Stage Purification
+                    - generic [ref=f13e739]: 2 Years Filter Life
+                - generic [ref=f13e740]:
+                  - paragraph [ref=f13e741]: ₹12,499
+                  - paragraph [ref=f13e742]: MRP ₹22,000 (43% OFF)
+                  - generic [ref=f13e743]: Limited Time Deal
+                  - paragraph [ref=f13e744]: No-cost EMI from ₹2,084/mo
+            - link "New Launch Aquaguard ASPIRE Glow 2X RO+UV Active Copper Alkaline Water Purifier | 2 Year Filter Life | With Mega Sediment Filter RO+UV Active Copper + Alkaline Boost 2X Filter Life 12 Stage Purification ₹16,999 MRP ₹24,000 (29% OFF) No-cost EMI from ₹2,834/mo" [ref=f13e745] [cursor=pointer]:
+              - /url: /dp/GWPDHRUCA0002X/aquaguard-aspire-glow-2-x-ro-uv-active-copper-alkaline-water-purifier-2-year-filter-life-with-mega-sediment-filter
+              - generic [ref=f13e746]: New Launch
+              - generic [ref=f13e748]:
+                - generic [ref=f13e749]:
+                  - heading "Aquaguard ASPIRE Glow 2X RO+UV Active Copper Alkaline Water Purifier | 2 Year Filter Life | With Mega Sediment Filter" [level=3] [ref=f13e750]
+                  - generic [ref=f13e751]:
+                    - generic [ref=f13e752]: RO+UV
+                    - generic [ref=f13e753]: Active Copper + Alkaline Boost
+                    - generic [ref=f13e754]: 2X Filter Life
+                    - generic [ref=f13e755]: 12 Stage Purification
+                - generic [ref=f13e756]:
+                  - paragraph [ref=f13e757]: ₹16,999
+                  - paragraph [ref=f13e758]: MRP ₹24,000 (29% OFF)
+                  - paragraph [ref=f13e759]: No-cost EMI from ₹2,834/mo
+            - link "Rs.4000 Exchange Offer Aquaguard ASPIRE Glow 4X RO+UV Active Copper Alkaline Water Purifier | 4 Year Filter Life | Free Sediment Filter RO+UV Active Copper + Alkaline Boost 4 Year Warranty 12 Stage Purification ₹21,999 MRP ₹31,000 (29% OFF) No-cost EMI from ₹3,667/mo" [ref=f13e760] [cursor=pointer]:
+              - /url: /dp/GWPDGLORU0004X/aquaguard-aspire-glow-4-x-ro-uv-active-copper-alkaline-water-purifier-4-year-filter-life-free-sediment-filter
+              - generic [ref=f13e761]: Rs.4000 Exchange Offer
+              - generic [ref=f13e763]:
+                - generic [ref=f13e764]:
+                  - heading "Aquaguard ASPIRE Glow 4X RO+UV Active Copper Alkaline Water Purifier | 4 Year Filter Life | Free Sediment Filter" [level=3] [ref=f13e765]
+                  - generic [ref=f13e766]:
+                    - generic [ref=f13e767]: RO+UV
+                    - generic [ref=f13e768]: Active Copper + Alkaline Boost
+                    - generic [ref=f13e769]: 4 Year Warranty
+                    - generic [ref=f13e770]: 12 Stage Purification
+                - generic [ref=f13e771]:
+                  - paragraph [ref=f13e772]: ₹21,999
+                  - paragraph [ref=f13e773]: MRP ₹31,000 (29% OFF)
+                  - paragraph [ref=f13e774]: No-cost EMI from ₹3,667/mo
+            - link "Rs.4000 Exchange Offer Aquaguard ENRICH Ritz Pro 4X RO+UV Active Copper Stainless Steel Water Purifier | 4 Year Filter Life | Free Sediment Filter RO+UV Active Copper + Alkaline Boost Stainless Steel ₹24,999 MRP ₹37,000 (32% OFF) Limited Time Deal No-cost EMI from ₹4,167/mo" [ref=f13e775] [cursor=pointer]:
+              - /url: /dp/GWPDERRCS0002X/aquaguard-enrich-ritz-pro-4-x-ro-uv-active-copper-stainless-steel-water-purifier-4-year-filter-life-free-sediment-filter
+              - generic [ref=f13e776]: Rs.4000 Exchange Offer
+              - generic [ref=f13e778]:
+                - generic [ref=f13e779]:
+                  - heading "Aquaguard ENRICH Ritz Pro 4X RO+UV Active Copper Stainless Steel Water Purifier | 4 Year Filter Life | Free Sediment Filter" [level=3] [ref=f13e780]
+                  - generic [ref=f13e781]:
+                    - generic [ref=f13e782]: RO+UV
+                    - generic [ref=f13e783]: Active Copper + Alkaline Boost
+                    - generic [ref=f13e784]: Stainless Steel
+                - generic [ref=f13e785]:
+                  - paragraph [ref=f13e786]: ₹24,999
+                  - paragraph [ref=f13e787]: MRP ₹37,000 (32% OFF)
+                  - generic [ref=f13e788]: Limited Time Deal
+                  - paragraph [ref=f13e789]: No-cost EMI from ₹4,167/mo
+          - paragraph [ref=f13e791]: Showing 12 of 213 results
+          - button "View more results" [ref=f13e794] [cursor=pointer]
+        - link "Filters that last for 2 years Aquaguard Sure Delight Aquasaver Starting at ₹9,499* 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon Shop Now Feature Card Image NanoPore Filter Technology Removes Microplastics, Pesticides and Industrial waste Feature Card Image Aquasaver Saves 60% more water Feature Card Image Mega Sediment Filter Removes fine dust, dirt & mud" [ref=f13e795] [cursor=pointer]:
+          - /url: https://www.eurekaforbes.com/dp/GWPDASD2X00B00/aquaguard-sure-delight-2-x-ro-uv-water-purifier
+          - paragraph [ref=f13e799]: Filters that last for 2 years
+          - generic [ref=f13e801]:
+            - generic [ref=f13e802]:
+              - generic [ref=f13e803]: Aquaguard Sure Delight Aquasaver
+              - generic [ref=f13e804]: Starting at ₹9,499*
+              - generic [ref=f13e805]: 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon
+            - button "Shop Now" [ref=f13e807]
+            - generic [ref=f13e808]:
+              - generic [ref=f13e809]:
+                - img "Feature Card Image" [ref=f13e811]
+                - generic [ref=f13e812]:
+                  - heading "NanoPore Filter Technology" [level=3] [ref=f13e813]
+                  - paragraph [ref=f13e814]: Removes Microplastics, Pesticides and Industrial waste
+              - generic [ref=f13e815]:
+                - img "Feature Card Image" [ref=f13e817]
+                - generic [ref=f13e818]:
+                  - heading "Aquasaver" [level=3] [ref=f13e819]
+                  - paragraph [ref=f13e820]: Saves 60% more water
+              - generic [ref=f13e821]:
+                - img "Feature Card Image" [ref=f13e823]
+                - generic [ref=f13e824]:
+                  - heading "Mega Sediment Filter" [level=3] [ref=f13e825]
+                  - paragraph [ref=f13e826]: Removes fine dust, dirt & mud
+        - link "India's First Smart Purifier Aquaguard Ritz Pro Starting at ₹15,499* 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon Shop Now Feature Card Image Titanium Duo Filters Filters that last for 2 Years Feature Card Image Stainless Steel Tank Keeps water fresher for longer Feature Card Image 3-in-1 Active Copper Infused Copper, Calcium, and Magnesium" [ref=f13e827] [cursor=pointer]:
+          - /url: /dp/GWPDRRUSI00B00?ref=cat_xl
+          - paragraph [ref=f13e831]: India's First Smart Purifier
+          - generic [ref=f13e833]:
+            - generic [ref=f13e834]:
+              - generic [ref=f13e835]: Aquaguard Ritz Pro
+              - generic [ref=f13e836]: Starting at ₹15,499*
+              - generic [ref=f13e837]: 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon
+            - button "Shop Now" [ref=f13e839]
+            - generic [ref=f13e840]:
+              - generic [ref=f13e841]:
+                - img "Feature Card Image" [ref=f13e843]
+                - generic [ref=f13e844]:
+                  - heading "Titanium Duo Filters" [level=3] [ref=f13e845]
+                  - paragraph [ref=f13e846]: Filters that last for 2 Years
+              - generic [ref=f13e847]:
+                - img "Feature Card Image" [ref=f13e849]
+                - generic [ref=f13e850]:
+                  - heading "Stainless Steel Tank" [level=3] [ref=f13e851]
+                  - paragraph [ref=f13e852]: Keeps water fresher for longer
+              - generic [ref=f13e853]:
+                - img "Feature Card Image" [ref=f13e855]
+                - generic [ref=f13e856]:
+                  - heading "3-in-1 Active Copper" [level=3] [ref=f13e857]
+                  - paragraph [ref=f13e858]: Infused Copper, Calcium, and Magnesium
+        - link "Get 80ºC steaming hot water instantly Aquaguard Aspire Blaze 2X Starting at ₹25,999* 10% Instant Bank Discount Shop Now Feature Card Image Instant Hot Water Get steaming hot water at 80ºC instantly Feature Card Image Dual Steel Tank Stainless steel tank keeps water fresher for longer Feature Card Image Child Lock Prevents chances of accidental injuries" [ref=f13e859] [cursor=pointer]:
+          - /url: /dp/GWPDIUUHA03000/aquaguard-blaze-insta-uv-uf-hot-and-ambient-water-purifier?ref=cat_xl
+          - paragraph [ref=f13e863]: Get 80ºC steaming hot water instantly
+          - generic [ref=f13e865]:
+            - generic [ref=f13e866]:
+              - generic [ref=f13e867]: Aquaguard Aspire Blaze 2X
+              - generic [ref=f13e868]: Starting at ₹25,999*
+              - generic [ref=f13e869]: 10% Instant Bank Discount
+            - button "Shop Now" [ref=f13e871]
+            - generic [ref=f13e872]:
+              - generic [ref=f13e873]:
+                - img "Feature Card Image" [ref=f13e875]
+                - generic [ref=f13e876]:
+                  - heading "Instant Hot Water" [level=3] [ref=f13e877]
+                  - paragraph [ref=f13e878]: Get steaming hot water at 80ºC instantly
+              - generic [ref=f13e879]:
+                - img "Feature Card Image" [ref=f13e881]
+                - generic [ref=f13e882]:
+                  - heading "Dual Steel Tank" [level=3] [ref=f13e883]
+                  - paragraph [ref=f13e884]: Stainless steel tank keeps water fresher for longer
+              - generic [ref=f13e885]:
+                - img "Feature Card Image" [ref=f13e887]
+                - generic [ref=f13e888]:
+                  - heading "Child Lock" [level=3] [ref=f13e889]
+                  - paragraph [ref=f13e890]: Prevents chances of accidental injuries
+        - link "Needs No Service for 2 Years Aquaguard Enrich Aura 2X Life Get it as low as ₹11,699* 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon Shop Now Feature Card Image 2X Life Filters that last for 2 years with a 2 year warranty. Feature Card Image Free Pre-filter Helps removes sediments from water Feature Card Image Large Storage Tank Comes with 7 Litres storage tank" [ref=f13e891] [cursor=pointer]:
+          - /url: /dp/GWPDAUMRU00000/aquaguard-aura-2x-life-water-purifier?ref=cat_xl
+          - paragraph [ref=f13e895]: Needs No Service for 2 Years
+          - generic [ref=f13e897]:
+            - generic [ref=f13e898]:
+              - generic [ref=f13e899]: Aquaguard Enrich Aura 2X Life
+              - generic [ref=f13e900]: Get it as low as ₹11,699*
+              - generic [ref=f13e901]: 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon
+            - button "Shop Now" [ref=f13e903]
+            - generic [ref=f13e904]:
+              - generic [ref=f13e905]:
+                - img "Feature Card Image" [ref=f13e907]
+                - generic [ref=f13e908]:
+                  - heading "2X Life" [level=3] [ref=f13e909]
+                  - paragraph [ref=f13e910]: Filters that last for 2 years with a 2 year warranty.
+              - generic [ref=f13e911]:
+                - img "Feature Card Image" [ref=f13e913]
+                - generic [ref=f13e914]:
+                  - heading "Free Pre-filter" [level=3] [ref=f13e915]
+                  - paragraph [ref=f13e916]: Helps removes sediments from water
+              - generic [ref=f13e917]:
+                - img "Feature Card Image" [ref=f13e919]
+                - generic [ref=f13e920]:
+                  - heading "Large Storage Tank" [level=3] [ref=f13e921]
+                  - paragraph [ref=f13e922]: Comes with 7 Litres storage tank
+        - link "The slimmest water purifier ever Aquaguard Aspire Slimtech Starting at ₹11,429* 10% Instant Bank Discount* Shop Now Feature Card Image Water quality display Shows the input and output TDS of water Feature Card Image Slim Got Slimmer India's slimmest purifier at 21cm Feature Card Image Glass Exterior Scratch resistant toughened glass" [ref=f13e923] [cursor=pointer]:
+          - /url: /dp/GWPDGUSTG13000?ref=cat_xl
+          - paragraph [ref=f13e927]: The slimmest water purifier ever
+          - generic [ref=f13e929]:
+            - generic [ref=f13e930]:
+              - generic [ref=f13e931]: Aquaguard Aspire Slimtech
+              - generic [ref=f13e932]: Starting at ₹11,429*
+              - generic [ref=f13e933]: 10% Instant Bank Discount*
+            - button "Shop Now" [ref=f13e935]
+            - generic [ref=f13e936]:
+              - generic [ref=f13e937]:
+                - img "Feature Card Image" [ref=f13e939]
+                - generic [ref=f13e940]:
+                  - heading "Water quality display" [level=3] [ref=f13e941]
+                  - paragraph [ref=f13e942]: Shows the input and output TDS of water
+              - generic [ref=f13e943]:
+                - img "Feature Card Image" [ref=f13e945]
+                - generic [ref=f13e946]:
+                  - heading "Slim Got Slimmer" [level=3] [ref=f13e947]
+                  - paragraph [ref=f13e948]: India's slimmest purifier at 21cm
+              - generic [ref=f13e949]:
+                - img "Feature Card Image" [ref=f13e951]
+                - generic [ref=f13e952]:
+                  - heading "Glass Exterior" [level=3] [ref=f13e953]
+                  - paragraph [ref=f13e954]: Scratch resistant toughened glass
+        - link "Under the sink water purifier Aquaguard Designo NXT Starting at ₹18,499* 10% Instant Bank Discount* Shop Now Feature Card Image Compact Single Unit Fits easily under sink & delivers water from tap Feature Card Image Handle & Wheels Helps easy movement & under the sink cleaning Feature Card Image In-built Pump Ensures consistent flow of water at all times!" [ref=f13e955] [cursor=pointer]:
+          - /url: /dp/GWPDIUTCU03000?ref=cat_xl
+          - paragraph [ref=f13e959]: Under the sink water purifier
+          - generic [ref=f13e961]:
+            - generic [ref=f13e962]:
+              - generic [ref=f13e963]: Aquaguard Designo NXT
+              - generic [ref=f13e964]: Starting at ₹18,499*
+              - generic [ref=f13e965]: 10% Instant Bank Discount*
+            - button "Shop Now" [ref=f13e967]
+            - generic [ref=f13e968]:
+              - generic [ref=f13e969]:
+                - img "Feature Card Image" [ref=f13e971]
+                - generic [ref=f13e972]:
+                  - heading "Compact Single Unit" [level=3] [ref=f13e973]
+                  - paragraph [ref=f13e974]: Fits easily under sink & delivers water from tap
+              - generic [ref=f13e975]:
+                - img "Feature Card Image" [ref=f13e977]
+                - generic [ref=f13e978]:
+                  - heading "Handle & Wheels" [level=3] [ref=f13e979]
+                  - paragraph [ref=f13e980]: Helps easy movement & under the sink cleaning
+              - generic [ref=f13e981]:
+                - img "Feature Card Image" [ref=f13e983]
+                - generic [ref=f13e984]:
+                  - heading "In-built Pump" [level=3] [ref=f13e985]
+                  - paragraph [ref=f13e986]: Ensures consistent flow of water at all times!
+        - link "Nanopore purification. Intelligent by design. Aquaguard Aspire Halo 2X Starting at ₹18,499* 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon Shop Now Feature Card Image Stainless Steel Tank Keeps water fresher for longer Feature Card Image NanoPore Long-Life Filters with Titanium Media for Heavy Metal Removal Feature Card Image Advanced 5th Gen UV LED Mercury-free purification" [ref=f13e987] [cursor=pointer]:
+          - /url: /dp/GWPDHRUSW0002X?ref=cat_xl
+          - paragraph [ref=f13e991]: Nanopore purification. Intelligent by design.
+          - generic [ref=f13e993]:
+            - generic [ref=f13e994]:
+              - generic [ref=f13e995]: Aquaguard Aspire Halo 2X
+              - generic [ref=f13e996]: Starting at ₹18,499*
+              - generic [ref=f13e997]: 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon
+            - button "Shop Now" [ref=f13e999]
+            - generic [ref=f13e1000]:
+              - generic [ref=f13e1001]:
+                - img "Feature Card Image" [ref=f13e1003]
+                - generic [ref=f13e1004]:
+                  - heading "Stainless Steel Tank" [level=3] [ref=f13e1005]
+                  - paragraph [ref=f13e1006]: Keeps water fresher for longer
+              - generic [ref=f13e1007]:
+                - img "Feature Card Image" [ref=f13e1009]
+                - generic [ref=f13e1010]:
+                  - heading "NanoPore Long-Life Filters" [level=3] [ref=f13e1011]
+                  - paragraph [ref=f13e1012]: with Titanium Media for Heavy Metal Removal
+              - generic [ref=f13e1013]:
+                - img "Feature Card Image" [ref=f13e1015]
+                - generic [ref=f13e1016]:
+                  - heading "Advanced 5th Gen UV LED" [level=3] [ref=f13e1017]
+                  - paragraph [ref=f13e1018]: Mercury-free purification
+        - link "Saves 60% more water with Aquasaver RO Technology Aquaguard Sure Hydra RO+UV 2X Starting at ₹15,999* 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon Shop Now Feature Card Image NanoPore Filter Technology Removes Microplastics, Pesticides & Industrial waste Feature Card Image Aquasaver Saves 60% more water Feature Card Image Mega Sediment Filter Removes fine dust, dirt & mud" [ref=f13e1019] [cursor=pointer]:
+          - /url: /dp/GWPDHDRUU0002X?ref=cat_xl
+          - paragraph [ref=f13e1023]:
+            - text: Saves
+            - strong [ref=f13e1025]: 60% more water
+            - text: with Aquasaver RO Technology
+          - generic [ref=f13e1027]:
+            - generic [ref=f13e1028]:
+              - generic [ref=f13e1029]: Aquaguard Sure Hydra RO+UV 2X
+              - generic [ref=f13e1030]: Starting at ₹15,999*
+              - generic [ref=f13e1031]: 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon
+            - button "Shop Now" [ref=f13e1033]
+            - generic [ref=f13e1034]:
+              - generic [ref=f13e1035]:
+                - img "Feature Card Image" [ref=f13e1037]
+                - generic [ref=f13e1038]:
+                  - heading "NanoPore Filter Technology" [level=3] [ref=f13e1039]
+                  - paragraph [ref=f13e1040]: Removes Microplastics, Pesticides & Industrial waste
+              - generic [ref=f13e1041]:
+                - img "Feature Card Image" [ref=f13e1043]
+                - generic [ref=f13e1044]:
+                  - heading "Aquasaver" [level=3] [ref=f13e1045]
+                  - paragraph [ref=f13e1046]: Saves 60% more water
+              - generic [ref=f13e1047]:
+                - img "Feature Card Image" [ref=f13e1049]
+                - generic [ref=f13e1050]:
+                  - heading "Mega Sediment Filter" [level=3] [ref=f13e1051]
+                  - paragraph [ref=f13e1052]: Removes fine dust, dirt & mud
+        - generic [ref=f13e1053]:
+          - link "Goodness of Copper in every drop Aquaguard Enrich Marvel Starting at Rs.13,320* 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon Shop Now" [ref=f13e1054] [cursor=pointer]:
+            - /url: https://www.eurekaforbes.com/dp/GWPDEMRUS03B1X/aquaguard-enrich-marvel-ro-uv-stainless-steel-1-x-water-purifier
+            - paragraph [ref=f13e1058]: Goodness of Copper in every drop
+            - generic [ref=f13e1059]:
+              - heading "Aquaguard Enrich Marvel" [level=2] [ref=f13e1060]
+              - heading "Starting at Rs.13,320*" [level=4] [ref=f13e1061]
+              - generic [ref=f13e1062]: 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon
+              - button "Shop Now" [ref=f13e1064]
+          - link "Protection against 99.99% Bacteria & Virus Aquaguard Sure Delight 2X Aquasaver Starting at Rs. 9,449* 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon* Shop Now" [ref=f13e1065] [cursor=pointer]:
+            - /url: https://www.eurekaforbes.com/dp/GWPDDLT2X00B00/aquaguard-sure-delight-2-x-aquasaver-ro-uv-uf-water-purifier
+            - paragraph [ref=f13e1069]: Protection against 99.99% Bacteria & Virus
+            - generic [ref=f13e1070]:
+              - heading "Aquaguard Sure Delight 2X Aquasaver" [level=2] [ref=f13e1071]
+              - heading "Starting at Rs. 9,449*" [level=4] [ref=f13e1072]
+              - generic [ref=f13e1073]: 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon*
+              - button "Shop Now" [ref=f13e1075]
+        - generic [ref=f13e1076]:
+          - link "Goodness of Copper in every drop Aquaguard Enrich Crystal Booster UV 2X Starting at ₹16,499* 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon Shop Now" [ref=f13e1077] [cursor=pointer]:
+            - /url: /dp/GWPDECB2X00000?ref=cat_l
+            - paragraph [ref=f13e1081]: Goodness of Copper in every drop
+            - generic [ref=f13e1082]:
+              - heading "Aquaguard Enrich Crystal Booster UV 2X" [level=2] [ref=f13e1083]
+              - heading "Starting at ₹16,499*" [level=4] [ref=f13e1084]
+              - generic [ref=f13e1085]: 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon
+              - button "Shop Now" [ref=f13e1087]
+          - link "Switch between Copper & Alkaline in One Touch Aquaguard Enrich Crest UV Duo 2X Starting at ₹15,499* 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon Shop Now" [ref=f13e1088] [cursor=pointer]:
+            - /url: /dp/GWPDECD2X00000?ref=cat_l
+            - generic [ref=f13e1091]:
+              - paragraph [ref=f13e1092]:
+                - text: Switch between
+                - strong [ref=f13e1094]: Copper &
+                - strong [ref=f13e1095]
+                - strong [ref=f13e1097]: Alkaline
+                - text: in One Touch
+              - paragraph [ref=f13e1098]
+            - generic [ref=f13e1099]:
+              - heading "Aquaguard Enrich Crest UV Duo 2X" [level=2] [ref=f13e1100]
+              - heading "Starting at ₹15,499*" [level=4] [ref=f13e1101]
+              - generic [ref=f13e1102]: 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon
+              - button "Shop Now" [ref=f13e1104]
+        - generic [ref=f13e1105]:
+          - link "Goodness of 4-in-1 Active Copper Aquaguard Aspire Nova 2X RO Starting at ₹27,999* 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon Shop Now" [ref=f13e1106] [cursor=pointer]:
+            - /url: /dp/GWPDN2XSI00B00?ref=cat_l
+            - paragraph [ref=f13e1110]: Goodness of 4-in-1 Active Copper
+            - generic [ref=f13e1111]:
+              - heading "Aquaguard Aspire Nova 2X RO" [level=2] [ref=f13e1112]
+              - heading "Starting at ₹27,999*" [level=4] [ref=f13e1113]
+              - generic [ref=f13e1114]: 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon
+              - button "Shop Now" [ref=f13e1116]
+          - link "Saves 60% more water with Aquasaver RO Aquaguard Sure Hydra RO+UV 2X Starting at ₹15,999* 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon Shop Now" [ref=f13e1117] [cursor=pointer]:
+            - /url: /dp/GWPDHDRUU0002X?ref=cat_l
+            - paragraph [ref=f13e1121]:
+              - text: Saves
+              - strong [ref=f13e1123]: 60% more water
+              - text: with Aquasaver RO
+            - generic [ref=f13e1124]:
+              - heading "Aquaguard Sure Hydra RO+UV 2X" [level=2] [ref=f13e1125]
+              - heading "Starting at ₹15,999*" [level=4] [ref=f13e1126]
+              - generic [ref=f13e1127]: 10% Instant Bank Discount + Exchange Offer + Exclusive Coupon
+              - button "Shop Now" [ref=f13e1129]
+        - generic [ref=f13e1131]:
+          - heading "Why buy Aquaguard Water Purifiers from eurekaforbes.com?" [level=3] [ref=f13e1132]
+          - generic [ref=f13e1133]:
+            - generic [ref=f13e1134]:
+              - generic [ref=f13e1136]: Instant Discount
+              - generic [ref=f13e1137]: 10% instant discount with all debit and credit cards
+            - generic [ref=f13e1138]:
+              - generic [ref=f13e1140]: Exchange old device
+              - generic [ref=f13e1141]: Save upto ₹2,000 by exchanging an old device
+            - generic [ref=f13e1142]:
+              - generic [ref=f13e1144]: No Cost EMIs
+              - generic [ref=f13e1145]: EMIs upto 6 months for purchases above ₹10,000
+            - generic [ref=f13e1146]:
+              - generic [ref=f13e1148]: Online coupons
+              - generic [ref=f13e1149]: Get additional online exclusive coupons on login
+        - generic [ref=f13e1151]:
+          - heading "Water Purifier FAQs" [level=2] [ref=f13e1152]
+          - button [ref=f13e1154] [cursor=pointer]:
+            - heading "Why are Water Purifiers essential in homes today?" [level=3] [ref=f13e1155]
+          - button [ref=f13e1159] [cursor=pointer]:
+            - heading "What are the different types of Water Purifiers?" [level=3] [ref=f13e1160]
+          - button [ref=f13e1164] [cursor=pointer]:
+            - heading "What is ‘2X Filter Life’ in Water Purifiers and why does it matter?" [level=3] [ref=f13e1165]
+          - button [ref=f13e1169] [cursor=pointer]:
+            - heading "Which Water Purifier is good for your health?" [level=3] [ref=f13e1170]
+          - button [ref=f13e1174] [cursor=pointer]:
+            - heading "Does Aquaguard provide annual maintenance service for Water Purifiers? Is there a service helpline?" [level=3] [ref=f13e1175]
+        - generic [ref=f13e1180]:
+          - paragraph [ref=f13e1181]
+          - paragraph [ref=f13e1182]
+          - heading [level=2] [ref=f13e1183]:
+            - strong [ref=f13e1185]: Why should one buy a Water Purifier from Eureka Forbes?
+          - paragraph [ref=f13e1186]
+          - paragraph [ref=f13e1187]: "Investing in the right water purifier machine ensures your family gets clean and safe drinking water. Eureka Forbes offers advanced purification of water with tailor-made solutions for Indian homes. Here’s why choosing an Aquaguard from Eureka Forbes is a smart decision:"
+          - list [ref=f13e1188]:
+            - listitem [ref=f13e1189]:
+              - heading [level=3] [ref=f13e1190]:
+                - strong [ref=f13e1192]: Water Type Compatibility
+              - paragraph [ref=f13e1193]: Understanding your water type, hard water (high in TDS) or soft water (low TDS), is crucial.
+              - paragraph [ref=f13e1194]:
+                - text: • Hard water from underground sources requires a
+                - link "reverse osmosis" [ref=f13e1195] [cursor=pointer]:
+                  - /url: https://www.eurekaforbes.com/blog/understanding-reverse-osmosis-and-how-it-works.html
+                - text: (RO filter) to remove dissolved salts and contaminants.• Soft water, usually from lakes or rivers, benefits from UV purification to eliminate microbes like viruses and bacteria.
+            - listitem [ref=f13e1197]:
+              - heading [level=3] [ref=f13e1198]:
+                - strong [ref=f13e1200]: Advanced Stages of Purification
+          - paragraph [ref=f13e1201]:
+            - text: Aquaguard offers
+            - link "multi-stage purification" [ref=f13e1202] [cursor=pointer]:
+              - /url: https://www.eurekaforbes.com/blog/8-steps-of-water-purification.html
+            - text: "in one compact water purifier machine: that ensures"
+          - list [ref=f13e1204]:
+            - listitem [ref=f13e1205]:
+              - generic [ref=f13e1206]:
+                - strong [ref=f13e1207]: "• I-Filter:"
+                - text: Removes suspended particles like dust and mud.
+              - generic [ref=f13e1208]:
+                - strong [ref=f13e1209]: "• Chemi-Block:"
+                - text: Reduces chlorine and odour for better taste.
+              - strong [ref=f13e1211]: •
+              - link [ref=f13e1212] [cursor=pointer]:
+                - /url: https://www.eurekaforbes.com/blog/mtds-in-water-purifiers-meaning-benefits-workings.html
+                - strong [ref=f13e1214]: Taste Adjuster (MTDS)
+              - generic [ref=f13e1215]:
+                - strong [ref=f13e1216]: ":"
+                - text: Enhances water taste depending on the source.
+              - generic [ref=f13e1217]:
+                - strong [ref=f13e1218]: "• RO Cartridge:"
+                - text: Removes heavy metals, chemicals, bacteria, and viruses.
+              - strong [ref=f13e1220]: •
+              - link [ref=f13e1221] [cursor=pointer]:
+                - /url: https://www.eurekaforbes.com/blog/uv-e-boiling-in-water-purifiers-and-their-benefits.html
+                - strong [ref=f13e1223]: UV e-boiling
+              - generic [ref=f13e1224]:
+                - strong [ref=f13e1225]: ":"
+                - text: Ensures water is as pure as boiled water.
+              - generic [ref=f13e1226]:
+                - strong [ref=f13e1227]: "• Ultra Filtration:"
+                - text: Adds an extra layer of clarity and safety.
+              - strong [ref=f13e1229]: •
+              - link [ref=f13e1230] [cursor=pointer]:
+                - /url: https://www.eurekaforbes.com/blog/understanding-alkaline-water-basics-benefits.html
+                - strong [ref=f13e1232]: Alkaline Boost
+              - generic [ref=f13e1233]:
+                - strong [ref=f13e1234]: ":"
+                - text: Increases pH for healthier alkaline water.
+              - strong [ref=f13e1236]: •
+              - link [ref=f13e1237] [cursor=pointer]:
+                - /url: https://www.eurekaforbes.com/blog/active-copper-technology-in-water-purifiers.html
+                - strong [ref=f13e1239]: Active Copper Technology
+              - generic [ref=f13e1240]:
+                - strong [ref=f13e1241]: ":"
+                - text: Infuses copper ions for added health benefits.
+            - listitem [ref=f13e1242]:
+              - heading [level=3] [ref=f13e1243]:
+                - strong [ref=f13e1245]: Water Pressure Compatibility
+              - paragraph [ref=f13e1246]: Many homes suffer from low tap pressure. Aquaguard models come equipped with Zero Pressure Pumps, ensuring uninterrupted purification even in low-pressure conditions.
+            - listitem [ref=f13e1247]:
+              - heading [level=3] [ref=f13e1248]:
+                - strong [ref=f13e1250]: Range of Water Purifiers
+              - paragraph [ref=f13e1251]:
+                - text: Eureka Forbes offers a wide range of water purifiers tailored for every need. Our
+                - link "RO purifiers" [ref=f13e1252] [cursor=pointer]:
+                  - /url: https://www.eurekaforbes.com/c/water-purifiers/ro-water-purifier
+                - text: remove dissolved impurities, while
+                - link "UV and UF purifiers" [ref=f13e1254] [cursor=pointer]:
+                  - /url: https://www.eurekaforbes.com/c/water-purifiers/uv-water-purifier
+                - text: disinfect water without altering its taste.
+                - link "Alkaline water purifiers" [ref=f13e1256] [cursor=pointer]:
+                  - /url: https://www.eurekaforbes.com/c/water-purifiers/alkaline-boost-water-purifier
+                - text: and
+                - link "Active Copper water purifiers" [ref=f13e1258] [cursor=pointer]:
+                  - /url: https://www.eurekaforbes.com/c/water-purifiers/copper-water-purifier
+                - text: enhance water with essential minerals. We also have
+                - link "Smart water purifiers" [ref=f13e1260] [cursor=pointer]:
+                  - /url: https://www.eurekaforbes.com/c/water-purifiers/smart-water-purifier
+                - text: that offer app connectivity, and
+                - link "Stainless steel water tank" [ref=f13e1262] [cursor=pointer]:
+                  - /url: https://www.eurekaforbes.com/c/water-purifiers/stainless-steel-purifier
+                - text: models ensure hygienic storage for long durations. With options featuring
+                - link "2X Filter Life water purifiers" [ref=f13e1264] [cursor=pointer]:
+                  - /url: https://www.eurekaforbes.com/c/water-purifiers/2-x-filter-life-water-purifier
+                - text: ", we ensure longer-lasting performance. We also provide"
+                - link "genuine water filters" [ref=f13e1266] [cursor=pointer]:
+                  - /url: https://www.eurekaforbes.com/c/water-purifiers/genuine-filters
+                - text: and
+                - link "genuine spares and accessories" [ref=f13e1268] [cursor=pointer]:
+                  - /url: https://www.eurekaforbes.com/c/water-purifiers/water-purifier-accessories-and-spares
+                - text: ", guaranteeing safe, reliable maintenance."
+              - paragraph [ref=f13e1270]
+            - listitem [ref=f13e1271]:
+              - heading [level=3] [ref=f13e1272]:
+                - strong [ref=f13e1274]: Right Storage Capacity
+              - paragraph [ref=f13e1275]: "You can choose the right size of water purifier that filters water based on your household needs:"
+              - paragraph [ref=f13e1276]
+              - paragraph [ref=f13e1277]:
+                - generic [ref=f13e1278]:
+                  - text: •
+                  - strong [ref=f13e1279]: 4–7 litres
+                  - text: for small families
+                - generic [ref=f13e1280]:
+                  - text: •
+                  - strong [ref=f13e1281]: 10+ litres
+                  - text: for larger homes or offices
+                - text: Aquaguard offers models in various sizes for the consistent availability of purified water.
+            - listitem [ref=f13e1282]:
+              - heading [level=3] [ref=f13e1283]:
+                - link [ref=f13e1284] [cursor=pointer]:
+                  - /url: https://www.eurekaforbes.com/blog/guide-to-importance-of-water-purifier-maintenance.html
+                  - strong [ref=f13e1286]: Hassle-Free Maintenance
+              - paragraph [ref=f13e1287]:
+                - text: Aquaguard offers reliable water filter service through India’s largest service network. You can also opt for the
+                - link "Annual Maintenance Contract (AMC)" [ref=f13e1288] [cursor=pointer]:
+                  - /url: https://www.eurekaforbes.com/customer-service-and-amc
+                - text: starting from ₹599, which covers preventive care, unlimited repairs, and routine filter changes, ensuring your filter stays in optimal condition.
+            - listitem [ref=f13e1290]:
+              - heading [level=3] [ref=f13e1291]:
+                - strong [ref=f13e1293]: Reliable Warranty
+          - paragraph [ref=f13e1294]: Aquaguard water purifiers come with up to a 1-year warranty, along with additional services during the warranty period for added peace of mind. From advanced RO filter systems to copper-infused UV models, Eureka Forbes offers best-in-class options for every water type and lifestyle. With competitive water purifier prices, excellent service, superior purification technology, and smart features, Aquaguard remains one of the best choices for your home’s long-term water safety and health.
+          - paragraph [ref=f13e1295]: Aquaguard water purifiers come with up to a 1-year warranty. The brand also provides additional free services during the warranty period, adding to your peace of mind.
+          - paragraph [ref=f13e1296]: From advanced RO filter systems to copper-infused UV models, Eureka Forbes offers the best-in-class water purifier options for every water type and lifestyle. With excellent water purifier services, superior purification technology, and smart features, Aquaguard remains one of the best choices for your home’s long-term water safety and health.
+          - heading [level=2] [ref=f13e1297]
+      - contentinfo [ref=f13e1298]:
+        - generic [ref=f13e1299]:
+          - generic [ref=f13e1300]:
+            - generic [ref=f13e1301]:
+              - generic [ref=f13e1302] [cursor=pointer]:
+                - button [ref=f13e1303]:
+                  - link "Water Purifiers" [ref=f13e1304]:
+                    - /url: /c/water-purifiers
+                - generic [ref=f13e1306]:
+                  - link "RO Water Purifiers" [ref=f13e1307]:
+                    - /url: /c/water-purifiers/ro-water-purifier
+                  - link "UV Water Purifiers" [ref=f13e1308]:
+                    - /url: /c/water-purifiers/uv-water-purifier
+                  - link "Active Copper" [ref=f13e1309]:
+                    - /url: /c/water-purifiers/copper-water-purifier
+                  - link "Alkaline Boost" [ref=f13e1310]:
+                    - /url: /c/water-purifiers/alkaline-boost-water-purifier
+                  - link "Hot & Ambient" [ref=f13e1311]:
+                    - /url: /c/water-purifiers/hot-and-ambient-purifier
+                  - link "Stainless Steel Purifier" [ref=f13e1312]:
+                    - /url: /c/water-purifiers/stainless-steel-purifier
+                  - link "Slim Water Purifier" [ref=f13e1313]:
+                    - /url: /c/water-purifiers/slim-water-purifier
+                  - link "Under Counter Purifier" [ref=f13e1314]:
+                    - /url: /c/water-purifiers/under-counter-purifier
+                  - link "Spares & Accessories" [ref=f13e1315]:
+                    - /url: /c/water-purifiers/water-purifier-accessories-and-spares
+                  - link "Genuine Filters" [ref=f13e1316]:
+                    - /url: /c/water-purifiers/genuine-filters
+              - generic [ref=f13e1317] [cursor=pointer]:
+                - button [ref=f13e1318]:
+                  - link "Vacuum cleaners" [ref=f13e1319]:
+                    - /url: /c/vacuum-cleaners
+                - generic [ref=f13e1321]:
+                  - link "Robotic" [ref=f13e1322]:
+                    - /url: /c/vacuum-cleaners/robotic-vacuum-cleaner
+                  - link "Upright" [ref=f13e1323]:
+                    - /url: /c/vacuum-cleaners/upright-vacuum-cleaner
+                  - link "Canister" [ref=f13e1324]:
+                    - /url: /c/vacuum-cleaners/canister-vacumm-cleaner
+                  - link "Wet & Dry" [ref=f13e1325]:
+                    - /url: /c/vacuum-cleaners/wet-and-dry-vacuum-cleaner
+                  - link "Handheld" [ref=f13e1326]:
+                    - /url: /c/vacuum-cleaners/handheld-vacuum-cleaner
+                  - link "Pet Grooming" [ref=f13e1327]:
+                    - /url: /c/vacuum-cleaners/pet-grooming-vacuum-cleaner
+                  - link "Accessories" [ref=f13e1328]:
+                    - /url: /c/vacuum-cleaners/vacuum-cleaners-accessories
+            - generic [ref=f13e1329]:
+              - generic [ref=f13e1330] [cursor=pointer]:
+                - button [ref=f13e1331]:
+                  - link "Water solutions" [ref=f13e1332]:
+                    - /url: /c/water-solutions
+                - generic [ref=f13e1334]:
+                  - link "Water Softeners" [ref=f13e1335]:
+                    - /url: /c/water-solutions/aquaguard-water-softeners
+                  - link "Sediment Filter" [ref=f13e1336]:
+                    - /url: /c/water-solutions/sediment-filter
+                  - link "Activated Carbon Filter" [ref=f13e1337]:
+                    - /url: /c/water-solutions/activated-carbon-filter
+                  - link "Iron Remover" [ref=f13e1338]:
+                    - /url: /c/water-solutions/iron-remover
+                  - link "Water Solutions Accessories" [ref=f13e1339]:
+                    - /url: /c/water-solutions/water-solutions-accessories
+              - generic [ref=f13e1340] [cursor=pointer]:
+                - button [ref=f13e1341]:
+                  - link "Commercial Water Purifiers" [ref=f13e1342]:
+                    - /url: /c/commercial-water-purifiers
+                - generic [ref=f13e1344]:
+                  - link "UV Commercial Water Purifier" [ref=f13e1345]:
+                    - /url: https://www.eurekaforbes.com/c/commercial-water-purifiers/commercial-uv-water-purifiers
+                  - link "RO Commercial Water Purifier" [ref=f13e1346]:
+                    - /url: https://www.eurekaforbes.com/c/commercial-water-purifiers/commercial-ro-water-purifier
+                  - link "Water Cooler with Inbuilt Purifier and Storage" [ref=f13e1347]:
+                    - /url: /c/commercial-water-purifiers/storage-water-cooler-with-inbuilt-purifier
+                  - link "RO Plants" [ref=f13e1348]:
+                    - /url: /c/commercial-water-purifiers/skid-mounted-ro-plants
+              - generic [ref=f13e1349] [cursor=pointer]:
+                - button [ref=f13e1350]:
+                  - link "Air Purifiers" [ref=f13e1351]:
+                    - /url: /c/air-purifiers
+                - generic [ref=f13e1353]:
+                  - link "All Air Purifiers" [ref=f13e1354]:
+                    - /url: /c/air-purifiers/all-air-purifiers
+                  - link "Filters" [ref=f13e1355]:
+                    - /url: /c/air-purifiers/air-purifier-filters
+            - generic [ref=f13e1356]:
+              - generic [ref=f13e1357] [cursor=pointer]:
+                - button [ref=f13e1358]:
+                  - link "Servicing" [ref=f13e1359]:
+                    - /url: /c/water-purifiers#
+                - generic [ref=f13e1361]:
+                  - link "Buy AMC" [ref=f13e1362]:
+                    - /url: /amc/my-devices
+                  - link "Raise A Complaint" [ref=f13e1363]:
+                    - /url: /service
+                  - link "AMC Terms & Conditions" [ref=f13e1364]:
+                    - /url: https://www.eurekaforbes.com/amc-new-terms-and-condition
+              - generic [ref=f13e1365] [cursor=pointer]:
+                - button [ref=f13e1366]:
+                  - link "Account" [ref=f13e1367]:
+                    - /url: /account
+                - generic [ref=f13e1369]:
+                  - link "Profile" [ref=f13e1370]:
+                    - /url: /account/profile
+                  - link "Your Devices" [ref=f13e1371]:
+                    - /url: /amc/my-devices
+                  - link "Your Orders" [ref=f13e1372]:
+                    - /url: /ecom/orders
+              - generic [ref=f13e1373] [cursor=pointer]:
+                - button [ref=f13e1374]:
+                  - link "Corporate Gifting" [ref=f13e1375]:
+                    - /url: https://www.eurekaforbes.com/corporate-gifts-and-bulk-discounts?srsltid=AfmBOoqkJujXnL70NT1d-J_OTkzRBbW2qo_qThqFguttt0VSYWUSK6Ji
+                - link "Corporate Gifting & Bulk Orders" [ref=f13e1378]:
+                  - /url: https://www.eurekaforbes.com/corporate-gifts-and-bulk-discounts?srsltid=AfmBOoqkJujXnL70NT1d-J_OTkzRBbW2qo_qThqFguttt0VSYWUSK6Ji
+            - generic [ref=f13e1380] [cursor=pointer]:
+              - button [ref=f13e1381]:
+                - link "About Eureka Forbes" [ref=f13e1382]:
+                  - /url: /c/water-purifiers#
+              - generic [ref=f13e1384]:
+                - link "About Us" [ref=f13e1385]:
+                  - /url: /about-us
+                - link "Connect With Us" [ref=f13e1386]:
+                  - /url: /connect-with-us
+                - link "Investor Relations" [ref=f13e1387]:
+                  - /url: /investor-relations
+                - link "Sustainability" [ref=f13e1388]:
+                  - /url: /sustainability
+                - link "Press Release" [ref=f13e1389]:
+                  - /url: /press-release
+                - link "Authorized Service Center" [ref=f13e1390]:
+                  - /url: /authorized-center
+                - link "Office Near You" [ref=f13e1391]:
+                  - /url: /storelocator
+                - link "Blog" [ref=f13e1392]:
+                  - /url: /blog
+                - link "Book a Demo" [ref=f13e1393]:
+                  - /url: /contactus/index/bookademorequest
+                - link "Returns & Refunds Policy" [ref=f13e1394]:
+                  - /url: /return-and-replacement-policy?srsltid=AfmBOoomc9u2-7ELXVpT9chv2zw9Op6AaxXoFZJWIfO_8OXTeIEtyc5k
+                - link "Sell with EarnSmart Program" [ref=f13e1395]:
+                  - /url: /sell-with-earnsmart
+                - link "Careers" [ref=f13e1396]:
+                  - /url: https://www.eurekaforbes.com/careers
+          - generic [ref=f13e1397]:
+            - generic [ref=f13e1398]:
+              - paragraph [ref=f13e1399]: Registered Office and Corporate Office
+              - paragraph [ref=f13e1400]: B1/B2, 701, 7th Floor, Marathon Innova, Off. Ganpatrao Kadam Marg, Lower Parel (West), Mumbai, Maharashtra – 400013
+            - generic [ref=f13e1401]:
+              - paragraph [ref=f13e1402]: Manufacturer/Importer details
+              - paragraph [ref=f13e1403]: Eureka Forbes Limited
+            - generic [ref=f13e1404]:
+              - paragraph [ref=f13e1405]: Corporate Identity Number (CIN)
+              - paragraph [ref=f13e1406]: L27310MH2008PLC188478
+          - separator [ref=f13e1407]
+          - generic [ref=f13e1408]:
+            - paragraph [ref=f13e1409]: More ways to shop
+            - link "Call 7039883333" [ref=f13e1411] [cursor=pointer]:
+              - /url: tel:7039883333
+          - generic [ref=f13e1412]:
+            - link [ref=f13e1413] [cursor=pointer]:
+              - /url: https://in.linkedin.com/company/eureka-forbes-ltd
+              - img "LinkedIn" [ref=f13e1414]
+            - link [ref=f13e1415] [cursor=pointer]:
+              - /url: https://www.facebook.com/EurekaForbes/
+              - img "Facebook" [ref=f13e1416]
+            - link [ref=f13e1417] [cursor=pointer]:
+              - /url: https://x.com/EurekaforbesIN
+              - img "Twitter" [ref=f13e1418]
+            - link [ref=f13e1419] [cursor=pointer]:
+              - /url: https://www.youtube.com/c/eurekaforbes
+              - img "YouTube" [ref=f13e1420]
+            - link [ref=f13e1421] [cursor=pointer]:
+              - /url: https://www.instagram.com/eurekaforbesofficial/
+              - img "Instagram" [ref=f13e1422]
+          - generic [ref=f13e1423]:
+            - paragraph [ref=f13e1424]: India
+            - generic [ref=f13e1425]:
+              - paragraph [ref=f13e1426]: © 2026 Eureka Forbes. All Rights Reserved.
+              - generic [ref=f13e1427]:
+                - link "Privacy" [ref=f13e1428] [cursor=pointer]:
+                  - /url: /en/privacy-policy
+                - link "Terms of use" [ref=f13e1429] [cursor=pointer]:
+                  - /url: /terms-of-use
+                - link "Legal" [ref=f13e1430] [cursor=pointer]:
+                  - /url: /legal
+                - link "Sitemap" [ref=f13e1431] [cursor=pointer]:
+                  - /url: /sitemap.xml
+          - paragraph [ref=f13e1432]: "Disclaimer: The displayed product colours and shades are indicative and cannot be considered to be a precise representation of the actual colours."
+    - generic [ref=f13e1433]:
+      - paragraph [ref=f13e1434]:
+        - text: We use cookies to improve your experience.
+        - link "Learn more" [ref=f13e1435] [cursor=pointer]:
+          - /url: /cookie-policy
+      - button "Allow" [ref=f13e1436] [cursor=pointer]
+      - button [ref=f13e1437] [cursor=pointer]
+    - link [ref=f13e1441] [cursor=pointer]:
+      - /url: https://api.whatsapp.com/send?phone=917039883333&text=Hi
+      - img "WhatsappButton" [ref=f13e1442]
+  - alert [ref=f13e1443]
+  - iframe [ref=f13e1444]:
+    - generic [ref=f25e12]:
+      - 'link "4-Hour Delivery & Installation* now live for Delhi NCR Region | Order before 3PM | *T&C Apply | Note: Delivery might be delayed to High Demand" [ref=f25e13] [cursor=pointer]':
+        - /url: https://www.eurekaforbes.com/c/water-purifiers/4-hour-delivery-and-installation-wp
+      - link:
+        - /url: https://www.eurekaforbes.com/c/water-purifiers/4-hour-delivery-and-installation-wp

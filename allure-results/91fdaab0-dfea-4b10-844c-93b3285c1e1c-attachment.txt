@@ -1,0 +1,9 @@
+Step 1: Start journey at homepage
+Step 2: Navigate to Water Purifiers category
+Step 3: Click on Aquaguard Enrich Nexen product
+Step 4: Verify product details
+Step 5: Verify delivery and exchange sections
+Step 6: Add product to cart
+Step 7: Verify initial cart state (quantity 1)
+Step 8: Update quantity to 2
+Step 9: Apply exchange offer
